@@ -64,7 +64,6 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### ⭐ Recent Stars
 
-- [php-edifact/edifact](https://github.com/php-edifact/edifact) - Tools to process EDI messages in UN/EDIFACT format (1 year ago)
 
 #### 👯 Check out some of my recent followers
 
