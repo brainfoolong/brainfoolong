@@ -7,11 +7,11 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
+- [NullixAT/pagemyself-docker](https://github.com/NullixAT/pagemyself-docker) - Our docker implementation for PageMyself (today)
 - [NullixAT/framelix-core](https://github.com/NullixAT/framelix-core) - A full featured PHP framework with built-in backend and data management capabilities. (today)
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) - PageMyself - A full WYSIWYG website builder with live editing features. (today)
 - [NullixAT/pagemyself-docs](https://github.com/NullixAT/pagemyself-docs) - A code documentation module for PageMyself. (today)
 - [NullixAT/pagemyself-module-store](https://github.com/NullixAT/pagemyself-module-store) - PageMyself module store (today)
-- [NullixAT/pagemyself-docker](https://github.com/NullixAT/pagemyself-docker) - Our docker implementation for PageMyself (3 days ago)
 - [NullixAT/framelix-tests](https://github.com/NullixAT/framelix-tests) - Framelix Core Unit Tests (3 days ago)
 - [NullixAT/pagemyself-slideshow](https://github.com/NullixAT/pagemyself-slideshow) - About Slideshow Module for PageMyself. (2 weeks ago)
 - [NullixAT/pagemyself-calendar](https://github.com/NullixAT/pagemyself-calendar) - Calendar Module for PageMyself. (2 weeks ago)
@@ -33,7 +33,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
-- [NullixAT/pagemyself-docs](https://github.com/NullixAT/pagemyself-docs) ([0.2.1](https://github.com/NullixAT/pagemyself-docs/releases/tag/0.2.1), today) - A code documentation module for PageMyself.
+- [NullixAT/pagemyself-docs](https://github.com/NullixAT/pagemyself-docs) ([0.3.0](https://github.com/NullixAT/pagemyself-docs/releases/tag/0.3.0), today) - A code documentation module for PageMyself.
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) ([0.9.0](https://github.com/NullixAT/pagemyself/releases/tag/0.9.0), today) - PageMyself - A full WYSIWYG website builder with live editing features.
 - [NullixAT/pagemyself-imagegallery](https://github.com/NullixAT/pagemyself-imagegallery) ([0.4.0](https://github.com/NullixAT/pagemyself-imagegallery/releases/tag/0.4.0), 2 weeks ago) - About ImageGallery Module for PageMyself.
 - [NullixAT/pagemyself-slideshow](https://github.com/NullixAT/pagemyself-slideshow) ([0.4.0](https://github.com/NullixAT/pagemyself-slideshow/releases/tag/0.4.0), 2 weeks ago) - About Slideshow Module for PageMyself.
