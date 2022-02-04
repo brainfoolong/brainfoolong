@@ -33,7 +33,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
-- [NullixAT/pagemyself-docs](https://github.com/NullixAT/pagemyself-docs) ([0.2.0](https://github.com/NullixAT/pagemyself-docs/releases/tag/0.2.0), today) - A code documentation module for PageMyself.
+- [NullixAT/pagemyself-docs](https://github.com/NullixAT/pagemyself-docs) ([0.2.1](https://github.com/NullixAT/pagemyself-docs/releases/tag/0.2.1), today) - A code documentation module for PageMyself.
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) ([0.9.0](https://github.com/NullixAT/pagemyself/releases/tag/0.9.0), today) - PageMyself - A full WYSIWYG website builder with live editing features.
 - [NullixAT/pagemyself-imagegallery](https://github.com/NullixAT/pagemyself-imagegallery) ([0.4.0](https://github.com/NullixAT/pagemyself-imagegallery/releases/tag/0.4.0), 2 weeks ago) - About ImageGallery Module for PageMyself.
 - [NullixAT/pagemyself-slideshow](https://github.com/NullixAT/pagemyself-slideshow) ([0.4.0](https://github.com/NullixAT/pagemyself-slideshow/releases/tag/0.4.0), 2 weeks ago) - About Slideshow Module for PageMyself.
