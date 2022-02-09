@@ -7,16 +7,16 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
+- [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object. (today)
 - [NullixAT/framelix-core](https://github.com/NullixAT/framelix-core) - A full featured PHP framework with built-in backend and data management capabilities. (1 day ago)
 - [NullixAT/framelix-tests](https://github.com/NullixAT/framelix-tests) - Framelix Core Unit Tests (1 day ago)
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) - PageMyself - A full WYSIWYG website builder with live editing features. (1 day ago)
 - [NullixAT/pagemyself-docs](https://github.com/NullixAT/pagemyself-docs) - A code documentation module for PageMyself. (3 days ago)
 - [NullixAT/pagemyself-module-store](https://github.com/NullixAT/pagemyself-module-store) - PageMyself module store (3 days ago)
 - [NullixAT/pagemyself-docker](https://github.com/NullixAT/pagemyself-docker) - Our docker implementation for PageMyself (5 days ago)
-- [NullixAT/pagemyself-slideshow](https://github.com/NullixAT/pagemyself-slideshow) - About Slideshow Module for PageMyself. (3 weeks ago)
+- [NullixAT/pagemyself-guestbook](https://github.com/NullixAT/pagemyself-guestbook) - About Guestbook Module for PageMyself. (3 weeks ago)
 - [NullixAT/pagemyself-calendar](https://github.com/NullixAT/pagemyself-calendar) - Calendar Module for PageMyself. (3 weeks ago)
 - [NullixAT/pagemyself-contactform](https://github.com/NullixAT/pagemyself-contactform) - ContactForm Module for PageMyself. (3 weeks ago)
-- [NullixAT/pagemyself-guestbook](https://github.com/NullixAT/pagemyself-guestbook) - About Guestbook Module for PageMyself. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -33,6 +33,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
+- [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) ([2.1.2](https://github.com/brainfoolong/form-data-json/releases/tag/2.1.2), today) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object.
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) ([0.12.0](https://github.com/NullixAT/pagemyself/releases/tag/0.12.0), 1 day ago) - PageMyself - A full WYSIWYG website builder with live editing features.
 - [NullixAT/pagemyself-docs](https://github.com/NullixAT/pagemyself-docs) ([0.4.0](https://github.com/NullixAT/pagemyself-docs/releases/tag/0.4.0), 3 days ago) - A code documentation module for PageMyself.
 - [NullixAT/pagemyself-imagegallery](https://github.com/NullixAT/pagemyself-imagegallery) ([0.4.0](https://github.com/NullixAT/pagemyself-imagegallery/releases/tag/0.4.0), 3 weeks ago) - About ImageGallery Module for PageMyself.
@@ -42,7 +43,6 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [NullixAT/pagemyself-calendar](https://github.com/NullixAT/pagemyself-calendar) ([0.4.0](https://github.com/NullixAT/pagemyself-calendar/releases/tag/0.4.0), 3 weeks ago) - Calendar Module for PageMyself.
 - [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) ([1.21.0](https://github.com/PHPOffice/PhpSpreadsheet/releases/tag/1.21.0), 1 month ago) - A pure PHP library for reading and writing spreadsheet files
 - [lbuchs/WebAuthn](https://github.com/lbuchs/WebAuthn) ([v1.0.0](https://github.com/lbuchs/WebAuthn/releases/tag/v1.0.0), 1 month ago) - A simple PHP WebAuthn (FIDO2) server library
-- [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) ([2.1.1](https://github.com/brainfoolong/form-data-json/releases/tag/2.1.1), 2 months ago) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object.
 
 #### 🔨 My recent Pull Requests
 
