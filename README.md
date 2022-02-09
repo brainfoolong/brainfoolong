@@ -33,7 +33,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
-- [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) ([2.1.2](https://github.com/brainfoolong/form-data-json/releases/tag/2.1.2), today) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object.
+- [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) ([2.1.3](https://github.com/brainfoolong/form-data-json/releases/tag/2.1.3), today) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object.
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) ([0.12.0](https://github.com/NullixAT/pagemyself/releases/tag/0.12.0), 1 day ago) - PageMyself - A full WYSIWYG website builder with live editing features.
 - [NullixAT/pagemyself-docs](https://github.com/NullixAT/pagemyself-docs) ([0.4.0](https://github.com/NullixAT/pagemyself-docs/releases/tag/0.4.0), 3 days ago) - A code documentation module for PageMyself.
 - [NullixAT/pagemyself-imagegallery](https://github.com/NullixAT/pagemyself-imagegallery) ([0.4.0](https://github.com/NullixAT/pagemyself-imagegallery/releases/tag/0.4.0), 3 weeks ago) - About ImageGallery Module for PageMyself.
