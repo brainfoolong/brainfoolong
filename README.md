@@ -46,6 +46,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔨 My recent Pull Requests
 
+- [fix php 8.1 error when autoFilter[&#39;ref&#39;] is null in AutoFilter](https://github.com/PHPOffice/PhpSpreadsheet/pull/2596) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (today)
 - [fixed is_file() call with null in PHP 8.1](https://github.com/lbuchs/WebAuthn/pull/53) on [lbuchs/WebAuthn](https://github.com/lbuchs/WebAuthn) (2 months ago)
 - [added version detection rather then suppressing obvious error](https://github.com/PHPOffice/PhpSpreadsheet/pull/2438) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (2 months ago)
 - [convert issuer to string prevents php 8.1 errors](https://github.com/RobThree/TwoFactorAuth/pull/83) on [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) (2 months ago)
@@ -55,7 +56,6 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [fixed missing return value](https://github.com/JetBrains/phpstorm-stubs/pull/1151) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (8 months ago)
 - [Typo in setTime-&gt;month documentation](https://github.com/fbiego/ESP32Time/pull/2) on [fbiego/ESP32Time](https://github.com/fbiego/ESP32Time) (11 months ago)
 - [send command should not reset connected status](https://github.com/PowerBroker2/ELMduino/pull/47) on [PowerBroker2/ELMduino](https://github.com/PowerBroker2/ELMduino) (1 year ago)
-- [Fix XLSX reader when having a corrupt numeric cell data type](https://github.com/PHPOffice/PhpSpreadsheet/pull/1664) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (1 year ago)
 
 #### 📓 Gists I wrote
 
