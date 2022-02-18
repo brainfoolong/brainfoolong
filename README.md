@@ -33,6 +33,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) ([1.22.0](https://github.com/PHPOffice/PhpSpreadsheet/releases/tag/1.22.0), today) - A pure PHP library for reading and writing spreadsheet files
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) ([0.16.1](https://github.com/NullixAT/pagemyself/releases/tag/0.16.1), 1 day ago) - PageMyself - Open-Source Self-Hosted WYSIWYG Website Builder
 - [NullixAT/pagemyself-docs](https://github.com/NullixAT/pagemyself-docs) ([0.5.0](https://github.com/NullixAT/pagemyself-docs/releases/tag/0.5.0), 1 day ago) - A code documentation module for PageMyself.
 - [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) ([1.8.2](https://github.com/RobThree/TwoFactorAuth/releases/tag/1.8.2), 4 days ago) - PHP library for Two Factor Authentication (TFA / 2FA)
@@ -42,7 +43,6 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [NullixAT/pagemyself-guestbook](https://github.com/NullixAT/pagemyself-guestbook) ([0.4.0](https://github.com/NullixAT/pagemyself-guestbook/releases/tag/0.4.0), 1 month ago) - About Guestbook Module for PageMyself.
 - [NullixAT/pagemyself-contactform](https://github.com/NullixAT/pagemyself-contactform) ([0.4.0](https://github.com/NullixAT/pagemyself-contactform/releases/tag/0.4.0), 1 month ago) - ContactForm Module for PageMyself.
 - [NullixAT/pagemyself-calendar](https://github.com/NullixAT/pagemyself-calendar) ([0.4.0](https://github.com/NullixAT/pagemyself-calendar/releases/tag/0.4.0), 1 month ago) - Calendar Module for PageMyself.
-- [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) ([1.21.0](https://github.com/PHPOffice/PhpSpreadsheet/releases/tag/1.21.0), 1 month ago) - A pure PHP library for reading and writing spreadsheet files
 
 #### 🔨 My recent Pull Requests
 
