@@ -7,16 +7,16 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
+- [NullixAT/pagemyself-contactform](https://github.com/NullixAT/pagemyself-contactform) - ContactForm Module for PageMyself. (today)
+- [NullixAT/pagemyself-module-store](https://github.com/NullixAT/pagemyself-module-store) - PageMyself module store (today)
 - [NullixAT/framelix-tests](https://github.com/NullixAT/framelix-tests) - Framelix Core Unit Tests (1 week ago)
-- [NullixAT/framelix-docker](https://github.com/NullixAT/framelix-docker) -  (2 weeks ago)
 - [NullixAT/framelix-core](https://github.com/NullixAT/framelix-core) - A full featured PHP framework with built-in backend and data management capabilities. (2 weeks ago)
+- [NullixAT/framelix-docker](https://github.com/NullixAT/framelix-docker) -  (2 weeks ago)
 - [NullixAT/pagemyself-docs](https://github.com/NullixAT/pagemyself-docs) - A code documentation module for PageMyself. (2 weeks ago)
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) - PageMyself - Open-Source Self-Hosted WYSIWYG Website Builder (2 weeks ago)
-- [NullixAT/framelix-phpspreadsheet](https://github.com/NullixAT/framelix-phpspreadsheet) - PhpSpreadsheet Wrapper for Framelix. (2 weeks ago)
 - [NullixAT/framelix-docs](https://github.com/NullixAT/framelix-docs) - Documentation and staring point for Framelix PHP Framework. (2 weeks ago)
-- [NullixAT/buhax](https://github.com/NullixAT/buhax) - Buhax - Accounting software for small companies without VAT (2 weeks ago)
 - [NullixAT/framelix-tcpdf](https://github.com/NullixAT/framelix-tcpdf) - TCPDF Wrapper for Framelix. (2 weeks ago)
-- [NullixAT/pagemyself-module-store](https://github.com/NullixAT/pagemyself-module-store) - PageMyself module store (2 weeks ago)
+- [NullixAT/framelix-phpspreadsheet](https://github.com/NullixAT/framelix-phpspreadsheet) - PhpSpreadsheet Wrapper for Framelix. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -33,6 +33,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
+- [NullixAT/pagemyself-contactform](https://github.com/NullixAT/pagemyself-contactform) ([0.4.1](https://github.com/NullixAT/pagemyself-contactform/releases/tag/0.4.1), today) - ContactForm Module for PageMyself.
 - [NullixAT/buhax](https://github.com/NullixAT/buhax) ([0.1.0](https://github.com/NullixAT/buhax/releases/tag/0.1.0), 2 weeks ago) - Buhax - Accounting software for small companies without VAT
 - [NullixAT/pagemyself-docs](https://github.com/NullixAT/pagemyself-docs) ([0.6.0](https://github.com/NullixAT/pagemyself-docs/releases/tag/0.6.0), 2 weeks ago) - A code documentation module for PageMyself.
 - [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) ([1.22.0](https://github.com/PHPOffice/PhpSpreadsheet/releases/tag/1.22.0), 2 weeks ago) - A pure PHP library for reading and writing spreadsheet files
@@ -42,7 +43,6 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [NullixAT/pagemyself-imagegallery](https://github.com/NullixAT/pagemyself-imagegallery) ([0.4.0](https://github.com/NullixAT/pagemyself-imagegallery/releases/tag/0.4.0), 1 month ago) - About ImageGallery Module for PageMyself.
 - [NullixAT/pagemyself-slideshow](https://github.com/NullixAT/pagemyself-slideshow) ([0.4.0](https://github.com/NullixAT/pagemyself-slideshow/releases/tag/0.4.0), 1 month ago) - About Slideshow Module for PageMyself.
 - [NullixAT/pagemyself-guestbook](https://github.com/NullixAT/pagemyself-guestbook) ([0.4.0](https://github.com/NullixAT/pagemyself-guestbook/releases/tag/0.4.0), 1 month ago) - About Guestbook Module for PageMyself.
-- [NullixAT/pagemyself-contactform](https://github.com/NullixAT/pagemyself-contactform) ([0.4.0](https://github.com/NullixAT/pagemyself-contactform/releases/tag/0.4.0), 1 month ago) - ContactForm Module for PageMyself.
 
 #### 🔨 My recent Pull Requests
 
