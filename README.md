@@ -7,9 +7,9 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) - PageMyself - Open-Source Self-Hosted WYSIWYG Website Builder (6 days ago)
-- [NullixAT/framelix-core](https://github.com/NullixAT/framelix-core) - A full featured PHP framework with built-in backend and data management capabilities. (6 days ago)
-- [NullixAT/framelix-tests](https://github.com/NullixAT/framelix-tests) - Framelix Core Unit Tests (6 days ago)
+- [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) - PageMyself - Open-Source Self-Hosted WYSIWYG Website Builder (1 week ago)
+- [NullixAT/framelix-core](https://github.com/NullixAT/framelix-core) - A full featured PHP framework with built-in backend and data management capabilities. (1 week ago)
+- [NullixAT/framelix-tests](https://github.com/NullixAT/framelix-tests) - Framelix Core Unit Tests (1 week ago)
 - [NullixAT/pagemyself-docker](https://github.com/NullixAT/pagemyself-docker) - Our docker implementation for PageMyself (1 week ago)
 - [NullixAT/pagemyself-contactform](https://github.com/NullixAT/pagemyself-contactform) - ContactForm Module for PageMyself. (1 week ago)
 - [NullixAT/pagemyself-module-store](https://github.com/NullixAT/pagemyself-module-store) - PageMyself module store (1 week ago)
@@ -33,7 +33,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
-- [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) ([0.16.2](https://github.com/NullixAT/pagemyself/releases/tag/0.16.2), 6 days ago) - PageMyself - Open-Source Self-Hosted WYSIWYG Website Builder
+- [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) ([0.16.2](https://github.com/NullixAT/pagemyself/releases/tag/0.16.2), 1 week ago) - PageMyself - Open-Source Self-Hosted WYSIWYG Website Builder
 - [NullixAT/pagemyself-contactform](https://github.com/NullixAT/pagemyself-contactform) ([0.4.1](https://github.com/NullixAT/pagemyself-contactform/releases/tag/0.4.1), 1 week ago) - ContactForm Module for PageMyself.
 - [NullixAT/buhax](https://github.com/NullixAT/buhax) ([0.1.0](https://github.com/NullixAT/buhax/releases/tag/0.1.0), 3 weeks ago) - Buhax - Accounting software for small companies without VAT
 - [NullixAT/pagemyself-docs](https://github.com/NullixAT/pagemyself-docs) ([0.6.0](https://github.com/NullixAT/pagemyself-docs/releases/tag/0.6.0), 3 weeks ago) - A code documentation module for PageMyself.
