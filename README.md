@@ -38,7 +38,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [NullixAT/buhax](https://github.com/NullixAT/buhax) ([0.1.0](https://github.com/NullixAT/buhax/releases/tag/0.1.0), 3 weeks ago) - Buhax - Accounting software for small companies without VAT
 - [NullixAT/pagemyself-docs](https://github.com/NullixAT/pagemyself-docs) ([0.6.0](https://github.com/NullixAT/pagemyself-docs/releases/tag/0.6.0), 3 weeks ago) - A code documentation module for PageMyself.
 - [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) ([1.22.0](https://github.com/PHPOffice/PhpSpreadsheet/releases/tag/1.22.0), 3 weeks ago) - A pure PHP library for reading and writing spreadsheet files
-- [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) ([1.8.2](https://github.com/RobThree/TwoFactorAuth/releases/tag/1.8.2), 4 weeks ago) - PHP library for Two Factor Authentication (TFA / 2FA)
+- [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) ([1.8.2](https://github.com/RobThree/TwoFactorAuth/releases/tag/1.8.2), 1 month ago) - PHP library for Two Factor Authentication (TFA / 2FA)
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) ([2.1.3](https://github.com/brainfoolong/form-data-json/releases/tag/2.1.3), 1 month ago) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object.
 - [NullixAT/pagemyself-imagegallery](https://github.com/NullixAT/pagemyself-imagegallery) ([0.4.0](https://github.com/NullixAT/pagemyself-imagegallery/releases/tag/0.4.0), 1 month ago) - About ImageGallery Module for PageMyself.
 - [NullixAT/pagemyself-slideshow](https://github.com/NullixAT/pagemyself-slideshow) ([0.4.0](https://github.com/NullixAT/pagemyself-slideshow/releases/tag/0.4.0), 1 month ago) - About Slideshow Module for PageMyself.
@@ -46,7 +46,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔨 My recent Pull Requests
 
-- [fix php 8.1 error when autoFilter[&#39;ref&#39;] is null in AutoFilter](https://github.com/PHPOffice/PhpSpreadsheet/pull/2596) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (3 weeks ago)
+- [fix php 8.1 error when autoFilter[&#39;ref&#39;] is null in AutoFilter](https://github.com/PHPOffice/PhpSpreadsheet/pull/2596) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (4 weeks ago)
 - [fixed is_file() call with null in PHP 8.1](https://github.com/lbuchs/WebAuthn/pull/53) on [lbuchs/WebAuthn](https://github.com/lbuchs/WebAuthn) (3 months ago)
 - [added version detection rather then suppressing obvious error](https://github.com/PHPOffice/PhpSpreadsheet/pull/2438) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (3 months ago)
 - [convert issuer to string prevents php 8.1 errors](https://github.com/RobThree/TwoFactorAuth/pull/83) on [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) (3 months ago)
