@@ -7,6 +7,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
+- [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object. (today)
 - [NullixAT/framelix-core](https://github.com/NullixAT/framelix-core) - A full featured PHP framework with built-in backend and data management capabilities. (1 week ago)
 - [NullixAT/framelix-tests](https://github.com/NullixAT/framelix-tests) - Framelix Core Unit Tests (1 week ago)
 - [NullixAT/buhax](https://github.com/NullixAT/buhax) - Buhax - Accounting software for small companies without VAT (1 week ago)
@@ -16,7 +17,6 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [NullixAT/pagemyself-module-store](https://github.com/NullixAT/pagemyself-module-store) - PageMyself module store (3 weeks ago)
 - [NullixAT/pagemyself-calendar](https://github.com/NullixAT/pagemyself-calendar) - Calendar Module for PageMyself. (3 weeks ago)
 - [NullixAT/pagemyself-docker](https://github.com/NullixAT/pagemyself-docker) - Our docker implementation for PageMyself (1 month ago)
-- [NullixAT/pagemyself-contactform](https://github.com/NullixAT/pagemyself-contactform) - ContactForm Module for PageMyself. (1 month ago)
 
 #### 🌱 My latest projects
 
