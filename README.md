@@ -8,6 +8,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 #### 👷 Check out what I'm currently working on
 
 - [NullixAT/framelix-core](https://github.com/NullixAT/framelix-core) - A full featured PHP framework with built-in backend and data management capabilities. (today)
+- [NullixAT/framelix-release](https://github.com/NullixAT/framelix-release) - Action to create releases for Framelix based projects. (today)
 - [NullixAT/framelix-docker](https://github.com/NullixAT/framelix-docker) -  (today)
 - [NullixAT/framelix-tests](https://github.com/NullixAT/framelix-tests) - Framelix Core Unit Tests (6 days ago)
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object. (2 weeks ago)
@@ -16,7 +17,6 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) - PageMyself - Open-Source Self-Hosted WYSIWYG Website Builder (1 month ago)
 - [NullixAT/pagemyself-module-store](https://github.com/NullixAT/pagemyself-module-store) - PageMyself module store (1 month ago)
 - [NullixAT/pagemyself-calendar](https://github.com/NullixAT/pagemyself-calendar) - Calendar Module for PageMyself. (1 month ago)
-- [NullixAT/pagemyself-docker](https://github.com/NullixAT/pagemyself-docker) - Our docker implementation for PageMyself (1 month ago)
 
 #### 🌱 My latest projects
 
