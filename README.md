@@ -7,11 +7,11 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
+- [NullixAT/framelix-docker](https://github.com/NullixAT/framelix-docker) -  (today)
 - [NullixAT/framelix-core](https://github.com/NullixAT/framelix-core) - A full featured PHP framework with built-in backend and data management capabilities. (today)
 - [NullixAT/framelix-tests](https://github.com/NullixAT/framelix-tests) - Framelix Core Unit Tests (today)
-- [NullixAT/framelix-docker](https://github.com/NullixAT/framelix-docker) -  (2 days ago)
-- [NullixAT/framelix-release](https://github.com/NullixAT/framelix-release) - Action to create releases for Framelix based projects. (2 days ago)
-- [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) - PageMyself - Open-Source Self-Hosted WYSIWYG Website Builder (2 days ago)
+- [NullixAT/framelix-release](https://github.com/NullixAT/framelix-release) - Action to create releases for Framelix based projects. (today)
+- [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) - PageMyself - Fast, easy and powerful website creator (today)
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object. (3 weeks ago)
 - [NullixAT/buhax](https://github.com/NullixAT/buhax) - Buhax - Accounting software for small companies without VAT (1 month ago)
 - [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) - CryptoJS 3.x AES encryption/decryption on client side with Javascript and on server side with PHP (1 month ago)
@@ -33,7 +33,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
-- [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) ([1.0.0-alpha.3](https://github.com/NullixAT/pagemyself/releases/tag/1.0.0-alpha.3), 2 days ago) - PageMyself - Open-Source Self-Hosted WYSIWYG Website Builder
+- [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) ([1.0.0-alpha.2](https://github.com/NullixAT/pagemyself/releases/tag/1.0.0-alpha.2), 2 days ago) - PageMyself - Fast, easy and powerful website creator
 - [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) ([1.23.0](https://github.com/PHPOffice/PhpSpreadsheet/releases/tag/1.23.0), 1 week ago) - A pure PHP library for reading and writing spreadsheet files
 - [NullixAT/buhax](https://github.com/NullixAT/buhax) ([0.2.0](https://github.com/NullixAT/buhax/releases/tag/0.2.0), 1 month ago) - Buhax - Accounting software for small companies without VAT
 - [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) ([1.8.2](https://github.com/RobThree/TwoFactorAuth/releases/tag/1.8.2), 1 month ago) - PHP library for Two Factor Authentication (TFA / 2FA)
