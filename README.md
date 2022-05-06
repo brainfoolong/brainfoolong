@@ -33,6 +33,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
+- [lbuchs/WebAuthn](https://github.com/lbuchs/WebAuthn) ([v1.1.0](https://github.com/lbuchs/WebAuthn/releases/tag/v1.1.0), today) - A simple PHP WebAuthn (FIDO2) server library
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) ([1.0.0-alpha.5](https://github.com/NullixAT/pagemyself/releases/tag/1.0.0-alpha.5), 2 days ago) - PageMyself - Fast, easy and powerful website generator
 - [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) ([1.23.0](https://github.com/PHPOffice/PhpSpreadsheet/releases/tag/1.23.0), 1 week ago) - A pure PHP library for reading and writing spreadsheet files
 - [NullixAT/buhax](https://github.com/NullixAT/buhax) ([0.2.0](https://github.com/NullixAT/buhax/releases/tag/0.2.0), 1 month ago) - Buhax - Accounting software for small companies without VAT
@@ -41,7 +42,6 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [NullixAT/pagemyself-imagegallery](https://github.com/NullixAT/pagemyself-imagegallery) ([0.4.0](https://github.com/NullixAT/pagemyself-imagegallery/releases/tag/0.4.0), 3 months ago) - About ImageGallery Module for PageMyself.
 - [NullixAT/pagemyself-slideshow](https://github.com/NullixAT/pagemyself-slideshow) ([0.4.0](https://github.com/NullixAT/pagemyself-slideshow/releases/tag/0.4.0), 3 months ago) - About Slideshow Module for PageMyself.
 - [NullixAT/pagemyself-guestbook](https://github.com/NullixAT/pagemyself-guestbook) ([0.4.0](https://github.com/NullixAT/pagemyself-guestbook/releases/tag/0.4.0), 3 months ago) - About Guestbook Module for PageMyself.
-- [lbuchs/WebAuthn](https://github.com/lbuchs/WebAuthn) ([v1.0.0](https://github.com/lbuchs/WebAuthn/releases/tag/v1.0.0), 4 months ago) - A simple PHP WebAuthn (FIDO2) server library
 - [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) ([2.1.1](https://github.com/brainfoolong/cryptojs-aes-php/releases/tag/2.1.1), 1 year ago) - CryptoJS 3.x AES encryption/decryption on client side with Javascript and on server side with PHP
 
 #### 🔨 My recent Pull Requests
