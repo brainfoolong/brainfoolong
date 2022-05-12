@@ -7,9 +7,9 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [NullixAT/framelix-core](https://github.com/NullixAT/framelix-core) - A full featured PHP framework with built-in backend and data management capabilities. (1 day ago)
-- [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) - PageMyself - Fast, easy and powerful website generator (1 day ago)
-- [NullixAT/framelix-docs](https://github.com/NullixAT/framelix-docs) - Documentation and staring point for Framelix PHP Framework. (5 days ago)
+- [NullixAT/framelix-core](https://github.com/NullixAT/framelix-core) - A full featured PHP framework with built-in backend and data management capabilities. (2 days ago)
+- [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) - PageMyself - Fast, easy and powerful website generator (2 days ago)
+- [NullixAT/framelix-docs](https://github.com/NullixAT/framelix-docs) - Documentation and staring point for Framelix PHP Framework. (6 days ago)
 - [NullixAT/framelix-docker](https://github.com/NullixAT/framelix-docker) -  (1 week ago)
 - [NullixAT/framelix-tests](https://github.com/NullixAT/framelix-tests) - Framelix Core Unit Tests (1 week ago)
 - [NullixAT/framelix-release](https://github.com/NullixAT/framelix-release) - Action to create releases for Framelix based projects. (1 week ago)
@@ -33,7 +33,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
-- [lbuchs/WebAuthn](https://github.com/lbuchs/WebAuthn) ([v1.1.0](https://github.com/lbuchs/WebAuthn/releases/tag/v1.1.0), 5 days ago) - A simple PHP WebAuthn (FIDO2) server library
+- [lbuchs/WebAuthn](https://github.com/lbuchs/WebAuthn) ([v1.1.0](https://github.com/lbuchs/WebAuthn/releases/tag/v1.1.0), 6 days ago) - A simple PHP WebAuthn (FIDO2) server library
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) ([1.0.0-alpha.5](https://github.com/NullixAT/pagemyself/releases/tag/1.0.0-alpha.5), 1 week ago) - PageMyself - Fast, easy and powerful website generator
 - [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) ([1.23.0](https://github.com/PHPOffice/PhpSpreadsheet/releases/tag/1.23.0), 2 weeks ago) - A pure PHP library for reading and writing spreadsheet files
 - [NullixAT/buhax](https://github.com/NullixAT/buhax) ([0.2.0](https://github.com/NullixAT/buhax/releases/tag/0.2.0), 1 month ago) - Buhax - Accounting software for small companies without VAT
@@ -53,7 +53,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [V2 dev](https://github.com/brainfoolong/form-data-json/pull/19) on [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) (7 months ago)
 - [fixed null conversation for strToUpper](https://github.com/PHPOffice/PhpSpreadsheet/pull/2292) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (8 months ago)
 - [fix implicit cast deprecation in php8.1](https://github.com/PHPOffice/PhpSpreadsheet/pull/2210) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (10 months ago)
-- [fixed missing return value](https://github.com/JetBrains/phpstorm-stubs/pull/1151) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (10 months ago)
+- [fixed missing return value](https://github.com/JetBrains/phpstorm-stubs/pull/1151) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (11 months ago)
 - [Typo in setTime-&gt;month documentation](https://github.com/fbiego/ESP32Time/pull/2) on [fbiego/ESP32Time](https://github.com/fbiego/ESP32Time) (1 year ago)
 - [send command should not reset connected status](https://github.com/PowerBroker2/ELMduino/pull/47) on [PowerBroker2/ELMduino](https://github.com/PowerBroker2/ELMduino) (1 year ago)
 
