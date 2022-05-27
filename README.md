@@ -12,8 +12,8 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) - PageMyself - Fast, easy and powerful website generator (1 week ago)
 - [NullixAT/framelix-core](https://github.com/NullixAT/framelix-core) - A full featured PHP framework with built-in backend and data management capabilities. (1 week ago)
 - [NullixAT/framelix-tests](https://github.com/NullixAT/framelix-tests) - Framelix Core Unit Tests (1 week ago)
-- [NullixAT/framelix-release](https://github.com/NullixAT/framelix-release) - Action to create releases for Framelix based projects. (1 week ago)
-- [NullixAT/framelix-docs](https://github.com/NullixAT/framelix-docs) - Documentation and staring point for Framelix PHP Framework. (2 weeks ago)
+- [NullixAT/framelix-release](https://github.com/NullixAT/framelix-release) - Action to create releases for Framelix based projects. (2 weeks ago)
+- [NullixAT/framelix-docs](https://github.com/NullixAT/framelix-docs) - Documentation and staring point for Framelix PHP Framework. (3 weeks ago)
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object. (1 month ago)
 - [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) - CryptoJS 3.x AES encryption/decryption on client side with Javascript and on server side with PHP (1 month ago)
 - [NullixAT/framelix-tcpdf](https://github.com/NullixAT/framelix-tcpdf) - TCPDF Wrapper for Framelix. (3 months ago)
@@ -35,7 +35,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 - [NullixAT/buhax](https://github.com/NullixAT/buhax) ([1.0.0-alpha.1](https://github.com/NullixAT/buhax/releases/tag/1.0.0-alpha.1), 1 week ago) - Buhax - Accounting software for small companies without VAT
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) ([1.0.0-alpha.9](https://github.com/NullixAT/pagemyself/releases/tag/1.0.0-alpha.9), 1 week ago) - PageMyself - Fast, easy and powerful website generator
-- [lbuchs/WebAuthn](https://github.com/lbuchs/WebAuthn) ([v1.1.0](https://github.com/lbuchs/WebAuthn/releases/tag/v1.1.0), 2 weeks ago) - A simple PHP WebAuthn (FIDO2) server library
+- [lbuchs/WebAuthn](https://github.com/lbuchs/WebAuthn) ([v1.1.0](https://github.com/lbuchs/WebAuthn/releases/tag/v1.1.0), 3 weeks ago) - A simple PHP WebAuthn (FIDO2) server library
 - [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) ([1.23.0](https://github.com/PHPOffice/PhpSpreadsheet/releases/tag/1.23.0), 1 month ago) - A pure PHP library for reading and writing spreadsheet files
 - [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) ([1.8.2](https://github.com/RobThree/TwoFactorAuth/releases/tag/1.8.2), 2 months ago) - PHP library for Two Factor Authentication (TFA / 2FA)
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) ([2.1.3](https://github.com/brainfoolong/form-data-json/releases/tag/2.1.3), 3 months ago) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object.
