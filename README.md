@@ -7,8 +7,8 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [NullixAT/buhax](https://github.com/NullixAT/buhax) - Buhax - Accounting software for small companies without VAT (1 week ago)
-- [NullixAT/framelix-docker](https://github.com/NullixAT/framelix-docker) -  (1 week ago)
+- [NullixAT/buhax](https://github.com/NullixAT/buhax) - Buhax - Accounting software for small companies without VAT (2 weeks ago)
+- [NullixAT/framelix-docker](https://github.com/NullixAT/framelix-docker) -  (2 weeks ago)
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) - PageMyself - Fast, easy and powerful website generator (2 weeks ago)
 - [NullixAT/framelix-core](https://github.com/NullixAT/framelix-core) - A full featured PHP framework with built-in backend and data management capabilities. (2 weeks ago)
 - [NullixAT/framelix-tests](https://github.com/NullixAT/framelix-tests) - Framelix Core Unit Tests (2 weeks ago)
@@ -33,7 +33,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
-- [NullixAT/buhax](https://github.com/NullixAT/buhax) ([1.0.0-alpha.1](https://github.com/NullixAT/buhax/releases/tag/1.0.0-alpha.1), 1 week ago) - Buhax - Accounting software for small companies without VAT
+- [NullixAT/buhax](https://github.com/NullixAT/buhax) ([1.0.0-alpha.1](https://github.com/NullixAT/buhax/releases/tag/1.0.0-alpha.1), 2 weeks ago) - Buhax - Accounting software for small companies without VAT
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) ([1.0.0-alpha.9](https://github.com/NullixAT/pagemyself/releases/tag/1.0.0-alpha.9), 2 weeks ago) - PageMyself - Fast, easy and powerful website generator
 - [lbuchs/WebAuthn](https://github.com/lbuchs/WebAuthn) ([v1.1.0](https://github.com/lbuchs/WebAuthn/releases/tag/v1.1.0), 3 weeks ago) - A simple PHP WebAuthn (FIDO2) server library
 - [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) ([1.23.0](https://github.com/PHPOffice/PhpSpreadsheet/releases/tag/1.23.0), 1 month ago) - A pure PHP library for reading and writing spreadsheet files
@@ -50,7 +50,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [fixed is_file() call with null in PHP 8.1](https://github.com/lbuchs/WebAuthn/pull/53) on [lbuchs/WebAuthn](https://github.com/lbuchs/WebAuthn) (5 months ago)
 - [added version detection rather then suppressing obvious error](https://github.com/PHPOffice/PhpSpreadsheet/pull/2438) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (5 months ago)
 - [convert issuer to string prevents php 8.1 errors](https://github.com/RobThree/TwoFactorAuth/pull/83) on [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) (6 months ago)
-- [V2 dev](https://github.com/brainfoolong/form-data-json/pull/19) on [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) (7 months ago)
+- [V2 dev](https://github.com/brainfoolong/form-data-json/pull/19) on [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) (8 months ago)
 - [fixed null conversation for strToUpper](https://github.com/PHPOffice/PhpSpreadsheet/pull/2292) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (8 months ago)
 - [fix implicit cast deprecation in php8.1](https://github.com/PHPOffice/PhpSpreadsheet/pull/2210) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (11 months ago)
 - [fixed missing return value](https://github.com/JetBrains/phpstorm-stubs/pull/1151) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (11 months ago)
