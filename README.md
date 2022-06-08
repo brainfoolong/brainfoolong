@@ -7,10 +7,10 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [NullixAT/framelix-core](https://github.com/NullixAT/framelix-core) - A full featured PHP framework with built-in backend and data management capabilities. (today)
-- [NullixAT/framelix-docker](https://github.com/NullixAT/framelix-docker) -  (today)
-- [NullixAT/buhax](https://github.com/NullixAT/buhax) - Buhax - Accounting software for small companies without VAT (today)
-- [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) - PageMyself - Fast, easy and powerful website generator (2 days ago)
+- [NullixAT/framelix-core](https://github.com/NullixAT/framelix-core) - A full featured PHP framework with built-in backend and data management capabilities. (1 day ago)
+- [NullixAT/framelix-docker](https://github.com/NullixAT/framelix-docker) -  (1 day ago)
+- [NullixAT/buhax](https://github.com/NullixAT/buhax) - Buhax - Accounting software for small companies without VAT (1 day ago)
+- [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) - PageMyself - Fast, easy and powerful website generator (3 days ago)
 - [NullixAT/framelix-tests](https://github.com/NullixAT/framelix-tests) - Framelix Core Unit Tests (3 weeks ago)
 - [NullixAT/framelix-release](https://github.com/NullixAT/framelix-release) - Action to create releases for Framelix based projects. (3 weeks ago)
 - [NullixAT/framelix-docs](https://github.com/NullixAT/framelix-docs) - Documentation and staring point for Framelix PHP Framework. (1 month ago)
@@ -33,7 +33,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
-- [NullixAT/buhax](https://github.com/NullixAT/buhax) ([1.0.0-alpha.1](https://github.com/NullixAT/buhax/releases/tag/1.0.0-alpha.1), 2 weeks ago) - Buhax - Accounting software for small companies without VAT
+- [NullixAT/buhax](https://github.com/NullixAT/buhax) ([1.0.0-alpha.1](https://github.com/NullixAT/buhax/releases/tag/1.0.0-alpha.1), 3 weeks ago) - Buhax - Accounting software for small companies without VAT
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) ([1.0.0-alpha.9](https://github.com/NullixAT/pagemyself/releases/tag/1.0.0-alpha.9), 3 weeks ago) - PageMyself - Fast, easy and powerful website generator
 - [lbuchs/WebAuthn](https://github.com/lbuchs/WebAuthn) ([v1.1.0](https://github.com/lbuchs/WebAuthn/releases/tag/v1.1.0), 1 month ago) - A simple PHP WebAuthn (FIDO2) server library
 - [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) ([1.23.0](https://github.com/PHPOffice/PhpSpreadsheet/releases/tag/1.23.0), 1 month ago) - A pure PHP library for reading and writing spreadsheet files
