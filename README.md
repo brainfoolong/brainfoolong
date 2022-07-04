@@ -59,7 +59,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 📓 Gists I wrote
 
-- [BitMask Demo](https://gist.github.com/4c30bdf9d94acfa4d2f61f0ae932ef71) (10 months ago)
+- [BitMask Demo](https://gist.github.com/4c30bdf9d94acfa4d2f61f0ae932ef71) (11 months ago)
 - [A simple stopwatch for your recordings in OBS Studio](https://gist.github.com/5750da1529a88c6c4a125b0a157c5d46) (2 years ago)
 
 #### ⭐ Recent Stars
