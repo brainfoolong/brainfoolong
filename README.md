@@ -7,7 +7,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [NullixAT/buhax](https://github.com/NullixAT/buhax) - Buhax - Accounting software for small companies without VAT (2 weeks ago)
+- [NullixAT/buhax](https://github.com/NullixAT/buhax) - Buhax - Accounting software for small companies without VAT (3 weeks ago)
 - [NullixAT/framelix-tests](https://github.com/NullixAT/framelix-tests) - Framelix Core Unit Tests (3 weeks ago)
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) - PageMyself - Fast, easy and powerful website generator (3 weeks ago)
 - [NullixAT/framelix-core](https://github.com/NullixAT/framelix-core) - A full featured PHP framework with built-in backend and data management capabilities. (3 weeks ago)
@@ -33,8 +33,8 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) ([1.24.0](https://github.com/PHPOffice/PhpSpreadsheet/releases/tag/1.24.0), today) - A pure PHP library for reading and writing spreadsheet files
-- [NullixAT/buhax](https://github.com/NullixAT/buhax) ([1.0.0-alpha.2](https://github.com/NullixAT/buhax/releases/tag/1.0.0-alpha.2), 2 weeks ago) - Buhax - Accounting software for small companies without VAT
+- [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) ([1.24.0](https://github.com/PHPOffice/PhpSpreadsheet/releases/tag/1.24.0), 1 day ago) - A pure PHP library for reading and writing spreadsheet files
+- [NullixAT/buhax](https://github.com/NullixAT/buhax) ([1.0.0-alpha.2](https://github.com/NullixAT/buhax/releases/tag/1.0.0-alpha.2), 3 weeks ago) - Buhax - Accounting software for small companies without VAT
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) ([1.0.0-beta.3](https://github.com/NullixAT/pagemyself/releases/tag/1.0.0-beta.3), 3 weeks ago) - PageMyself - Fast, easy and powerful website generator
 - [lbuchs/WebAuthn](https://github.com/lbuchs/WebAuthn) ([v1.1.0](https://github.com/lbuchs/WebAuthn/releases/tag/v1.1.0), 2 months ago) - A simple PHP WebAuthn (FIDO2) server library
 - [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) ([1.8.2](https://github.com/RobThree/TwoFactorAuth/releases/tag/1.8.2), 3 months ago) - PHP library for Two Factor Authentication (TFA / 2FA)
@@ -47,7 +47,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 #### 🔨 My recent Pull Requests
 
 - [fix php 8.1 error when autoFilter[&#39;ref&#39;] is null in AutoFilter](https://github.com/PHPOffice/PhpSpreadsheet/pull/2596) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (4 months ago)
-- [fixed is_file() call with null in PHP 8.1](https://github.com/lbuchs/WebAuthn/pull/53) on [lbuchs/WebAuthn](https://github.com/lbuchs/WebAuthn) (6 months ago)
+- [fixed is_file() call with null in PHP 8.1](https://github.com/lbuchs/WebAuthn/pull/53) on [lbuchs/WebAuthn](https://github.com/lbuchs/WebAuthn) (7 months ago)
 - [added version detection rather then suppressing obvious error](https://github.com/PHPOffice/PhpSpreadsheet/pull/2438) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (7 months ago)
 - [convert issuer to string prevents php 8.1 errors](https://github.com/RobThree/TwoFactorAuth/pull/83) on [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) (7 months ago)
 - [V2 dev](https://github.com/brainfoolong/form-data-json/pull/19) on [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) (9 months ago)
