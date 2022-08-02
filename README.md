@@ -7,8 +7,8 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [NullixAT/browstorjs](https://github.com/NullixAT/browstorjs) - Persistent key/value data storage for your Browser and/or PWA, promisified, including file support and service worker support, all with IndexedDB. Perfectly suitable for your next (PWA) app. (1 day ago)
-- [brainfoolong/better-battlelog](https://github.com/brainfoolong/better-battlelog) - Better Battlelog legacy code and legacy website. It was fun :) (2 days ago)
+- [NullixAT/browstorjs](https://github.com/NullixAT/browstorjs) - Persistent key/value data storage for your Browser and/or PWA, promisified, including file support and service worker support, all with IndexedDB. Perfectly suitable for your next (PWA) app. (2 days ago)
+- [brainfoolong/better-battlelog](https://github.com/brainfoolong/better-battlelog) - Better Battlelog legacy code and legacy website. It was fun :) (3 days ago)
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) - PageMyself - Fast, easy and powerful website generator (1 week ago)
 - [NullixAT/framelix-docker](https://github.com/NullixAT/framelix-docker) -  (1 week ago)
 - [NullixAT/buhax](https://github.com/NullixAT/buhax) - Buhax - Accounting software for small companies without VAT (1 month ago)
@@ -33,7 +33,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
-- [NullixAT/browstorjs](https://github.com/NullixAT/browstorjs) ([1.1.0](https://github.com/NullixAT/browstorjs/releases/tag/1.1.0), 1 day ago) - Persistent key/value data storage for your Browser and/or PWA, promisified, including file support and service worker support, all with IndexedDB. Perfectly suitable for your next (PWA) app.
+- [NullixAT/browstorjs](https://github.com/NullixAT/browstorjs) ([1.1.0](https://github.com/NullixAT/browstorjs/releases/tag/1.1.0), 2 days ago) - Persistent key/value data storage for your Browser and/or PWA, promisified, including file support and service worker support, all with IndexedDB. Perfectly suitable for your next (PWA) app.
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) ([1.0.0-beta.4](https://github.com/NullixAT/pagemyself/releases/tag/1.0.0-beta.4), 1 week ago) - PageMyself - Fast, easy and powerful website generator
 - [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) ([1.24.1](https://github.com/PHPOffice/PhpSpreadsheet/releases/tag/1.24.1), 2 weeks ago) - A pure PHP library for reading and writing spreadsheet files
 - [NullixAT/buhax](https://github.com/NullixAT/buhax) ([1.0.0-alpha.2](https://github.com/NullixAT/buhax/releases/tag/1.0.0-alpha.2), 1 month ago) - Buhax - Accounting software for small companies without VAT
