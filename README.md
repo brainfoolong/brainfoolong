@@ -7,15 +7,15 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [NullixAT/browstorjs](https://github.com/NullixAT/browstorjs) - Persistent key/value data storage for your Browser and/or PWA, promisified, including file support and service worker support, all with IndexedDB. Perfectly suitable for your next (PWA) app. (1 day ago)
-- [brainfoolong/better-battlelog](https://github.com/brainfoolong/better-battlelog) - Better Battlelog legacy code and legacy website. It was fun :) (4 days ago)
+- [NullixAT/browstorjs](https://github.com/NullixAT/browstorjs) - Persistent key/value data storage for your Browser and/or PWA, promisified, including file support and service worker support, all with IndexedDB. Perfectly suitable for your next (PWA) app. (2 days ago)
+- [brainfoolong/better-battlelog](https://github.com/brainfoolong/better-battlelog) - Better Battlelog legacy code and legacy website. It was fun :) (5 days ago)
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) - PageMyself - Fast, easy and powerful website generator (1 week ago)
 - [NullixAT/framelix-docker](https://github.com/NullixAT/framelix-docker) -  (1 week ago)
 - [NullixAT/buhax](https://github.com/NullixAT/buhax) - Buhax - Accounting software for small companies without VAT (1 month ago)
 - [NullixAT/framelix-core](https://github.com/NullixAT/framelix-core) - A full featured PHP framework with built-in backend and data management capabilities. (1 month ago)
 - [NullixAT/framelix-tests](https://github.com/NullixAT/framelix-tests) - Framelix Core Unit Tests (1 month ago)
 - [NullixAT/framelix-release](https://github.com/NullixAT/framelix-release) - Action to create releases for Framelix based projects. (2 months ago)
-- [NullixAT/framelix-docs](https://github.com/NullixAT/framelix-docs) - Documentation and staring point for Framelix PHP Framework. (2 months ago)
+- [NullixAT/framelix-docs](https://github.com/NullixAT/framelix-docs) - Documentation and staring point for Framelix PHP Framework. (3 months ago)
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object. (3 months ago)
 
 #### 🌱 My latest projects
@@ -33,11 +33,11 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
-- [NullixAT/browstorjs](https://github.com/NullixAT/browstorjs) ([1.2.0](https://github.com/NullixAT/browstorjs/releases/tag/1.2.0), 1 day ago) - Persistent key/value data storage for your Browser and/or PWA, promisified, including file support and service worker support, all with IndexedDB. Perfectly suitable for your next (PWA) app.
+- [NullixAT/browstorjs](https://github.com/NullixAT/browstorjs) ([1.2.0](https://github.com/NullixAT/browstorjs/releases/tag/1.2.0), 2 days ago) - Persistent key/value data storage for your Browser and/or PWA, promisified, including file support and service worker support, all with IndexedDB. Perfectly suitable for your next (PWA) app.
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) ([1.0.0-beta.4](https://github.com/NullixAT/pagemyself/releases/tag/1.0.0-beta.4), 1 week ago) - PageMyself - Fast, easy and powerful website generator
 - [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) ([1.24.1](https://github.com/PHPOffice/PhpSpreadsheet/releases/tag/1.24.1), 2 weeks ago) - A pure PHP library for reading and writing spreadsheet files
 - [NullixAT/buhax](https://github.com/NullixAT/buhax) ([1.0.0-alpha.2](https://github.com/NullixAT/buhax/releases/tag/1.0.0-alpha.2), 1 month ago) - Buhax - Accounting software for small companies without VAT
-- [lbuchs/WebAuthn](https://github.com/lbuchs/WebAuthn) ([v1.1.0](https://github.com/lbuchs/WebAuthn/releases/tag/v1.1.0), 2 months ago) - A simple PHP WebAuthn (FIDO2) server library
+- [lbuchs/WebAuthn](https://github.com/lbuchs/WebAuthn) ([v1.1.0](https://github.com/lbuchs/WebAuthn/releases/tag/v1.1.0), 3 months ago) - A simple PHP WebAuthn (FIDO2) server library
 - [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) ([1.8.2](https://github.com/RobThree/TwoFactorAuth/releases/tag/1.8.2), 4 months ago) - PHP library for Two Factor Authentication (TFA / 2FA)
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) ([2.1.3](https://github.com/brainfoolong/form-data-json/releases/tag/2.1.3), 5 months ago) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object.
 - [NullixAT/pagemyself-imagegallery](https://github.com/NullixAT/pagemyself-imagegallery) ([0.4.0](https://github.com/NullixAT/pagemyself-imagegallery/releases/tag/0.4.0), 6 months ago) - About ImageGallery Module for PageMyself.
@@ -48,10 +48,10 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 - [fix php 8.1 error when autoFilter[&#39;ref&#39;] is null in AutoFilter](https://github.com/PHPOffice/PhpSpreadsheet/pull/2596) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (5 months ago)
 - [fixed is_file() call with null in PHP 8.1](https://github.com/lbuchs/WebAuthn/pull/53) on [lbuchs/WebAuthn](https://github.com/lbuchs/WebAuthn) (7 months ago)
-- [added version detection rather then suppressing obvious error](https://github.com/PHPOffice/PhpSpreadsheet/pull/2438) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (7 months ago)
+- [added version detection rather then suppressing obvious error](https://github.com/PHPOffice/PhpSpreadsheet/pull/2438) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (8 months ago)
 - [convert issuer to string prevents php 8.1 errors](https://github.com/RobThree/TwoFactorAuth/pull/83) on [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) (8 months ago)
 - [V2 dev](https://github.com/brainfoolong/form-data-json/pull/19) on [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) (10 months ago)
-- [fixed null conversation for strToUpper](https://github.com/PHPOffice/PhpSpreadsheet/pull/2292) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (10 months ago)
+- [fixed null conversation for strToUpper](https://github.com/PHPOffice/PhpSpreadsheet/pull/2292) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (11 months ago)
 - [fix implicit cast deprecation in php8.1](https://github.com/PHPOffice/PhpSpreadsheet/pull/2210) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (1 year ago)
 - [fixed missing return value](https://github.com/JetBrains/phpstorm-stubs/pull/1151) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 year ago)
 - [Typo in setTime-&gt;month documentation](https://github.com/fbiego/ESP32Time/pull/2) on [fbiego/ESP32Time](https://github.com/fbiego/ESP32Time) (1 year ago)
