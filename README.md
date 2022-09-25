@@ -33,7 +33,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) ([1.25.0](https://github.com/PHPOffice/PhpSpreadsheet/releases/tag/1.25.0), today) - A pure PHP library for reading and writing spreadsheet files
+- [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) ([1.25.2](https://github.com/PHPOffice/PhpSpreadsheet/releases/tag/1.25.2), today) - A pure PHP library for reading and writing spreadsheet files
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) ([1.0.0-beta.6](https://github.com/NullixAT/pagemyself/releases/tag/1.0.0-beta.6), 2 weeks ago) - PageMyself - Fast, easy and powerful website generator
 - [NullixAT/browstorjs](https://github.com/NullixAT/browstorjs) ([1.2.0](https://github.com/NullixAT/browstorjs/releases/tag/1.2.0), 1 month ago) - Persistent key/value data storage for your Browser and/or PWA, promisified, including file support and service worker support, all with IndexedDB. Perfectly suitable for your next (PWA) app.
 - [NullixAT/buhax](https://github.com/NullixAT/buhax) ([1.0.0-alpha.2](https://github.com/NullixAT/buhax/releases/tag/1.0.0-alpha.2), 3 months ago) - Buhax - Accounting software for small companies without VAT
