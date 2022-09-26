@@ -7,8 +7,8 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [NullixAT/framelix-core](https://github.com/NullixAT/framelix-core) - A full featured PHP framework with built-in backend and data management capabilities. (1 day ago)
-- [NullixAT/framelix-tests](https://github.com/NullixAT/framelix-tests) - Framelix Core Unit Tests (1 day ago)
+- [NullixAT/framelix-core](https://github.com/NullixAT/framelix-core) - A full featured PHP framework with built-in backend and data management capabilities. (today)
+- [NullixAT/framelix-tests](https://github.com/NullixAT/framelix-tests) - Framelix Core Unit Tests (today)
 - [NullixAT/buhax](https://github.com/NullixAT/buhax) - Buhax - Accounting software for small companies without VAT (4 days ago)
 - [NullixAT/framelix-phpspreadsheet](https://github.com/NullixAT/framelix-phpspreadsheet) - PhpSpreadsheet Wrapper for Framelix. (1 week ago)
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) - PageMyself - Fast, easy and powerful website generator (2 weeks ago)
@@ -67,8 +67,8 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👯 Check out some of my recent followers
 
+- [mimiExchange](https://github.com/mimiExchange)
 - [Waffa](https://github.com/Waffa)
 - [dfx0110](https://github.com/dfx0110)
 - [m0rp43us](https://github.com/m0rp43us)
 - [chanpat](https://github.com/chanpat)
-- [QueezyEXE](https://github.com/QueezyEXE)
