@@ -7,11 +7,11 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [NullixAT/framelix-core](https://github.com/NullixAT/framelix-core) - A full featured PHP framework with built-in backend and data management capabilities. (today)
-- [NullixAT/framelix-tests](https://github.com/NullixAT/framelix-tests) - Framelix Core Unit Tests (today)
-- [NullixAT/buhax](https://github.com/NullixAT/buhax) - Buhax - Accounting software for small companies without VAT (today)
-- [NullixAT/framelix-docker](https://github.com/NullixAT/framelix-docker) - A full featured PHP framework with built-in backend and data management capabilities. (1 day ago)
-- [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) - PageMyself - Fast, easy and powerful website generator (1 day ago)
+- [NullixAT/framelix-core](https://github.com/NullixAT/framelix-core) - A full featured PHP framework with built-in backend and data management capabilities. (1 day ago)
+- [NullixAT/framelix-tests](https://github.com/NullixAT/framelix-tests) - Framelix Core Unit Tests (1 day ago)
+- [NullixAT/buhax](https://github.com/NullixAT/buhax) - Buhax - Accounting software for small companies without VAT (1 day ago)
+- [NullixAT/framelix-docker](https://github.com/NullixAT/framelix-docker) - A full featured PHP framework with built-in backend and data management capabilities. (2 days ago)
+- [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) - PageMyself - Fast, easy and powerful website generator (2 days ago)
 - [NullixAT/framelix-phpspreadsheet](https://github.com/NullixAT/framelix-phpspreadsheet) - PhpSpreadsheet Wrapper for Framelix. (1 month ago)
 - [brainfoolong/better-battlelog](https://github.com/brainfoolong/better-battlelog) - Better Battlelog legacy code and legacy website. It was fun :) (2 months ago)
 - [NullixAT/browstorjs](https://github.com/NullixAT/browstorjs) - Persistent key/value data storage for your Browser and/or PWA, promisified, including file support and service worker support, all with IndexedDB. Perfectly suitable for your next (PWA) app. (2 months ago)
@@ -34,7 +34,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 #### 🔭 Latest releases I've contributed to
 
 - [lbuchs/WebAuthn](https://github.com/lbuchs/WebAuthn) ([v1.1.1](https://github.com/lbuchs/WebAuthn/releases/tag/v1.1.1), 1 week ago) - A simple PHP WebAuthn (FIDO2) server library
-- [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) ([1.25.2](https://github.com/PHPOffice/PhpSpreadsheet/releases/tag/1.25.2), 4 weeks ago) - A pure PHP library for reading and writing spreadsheet files
+- [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) ([1.25.2](https://github.com/PHPOffice/PhpSpreadsheet/releases/tag/1.25.2), 1 month ago) - A pure PHP library for reading and writing spreadsheet files
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) ([1.0.0-beta.6](https://github.com/NullixAT/pagemyself/releases/tag/1.0.0-beta.6), 1 month ago) - PageMyself - Fast, easy and powerful website generator
 - [NullixAT/browstorjs](https://github.com/NullixAT/browstorjs) ([1.2.0](https://github.com/NullixAT/browstorjs/releases/tag/1.2.0), 2 months ago) - Persistent key/value data storage for your Browser and/or PWA, promisified, including file support and service worker support, all with IndexedDB. Perfectly suitable for your next (PWA) app.
 - [NullixAT/buhax](https://github.com/NullixAT/buhax) ([1.0.0-alpha.2](https://github.com/NullixAT/buhax/releases/tag/1.0.0-alpha.2), 4 months ago) - Buhax - Accounting software for small companies without VAT
@@ -50,7 +50,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [fix php 8.1 error when autoFilter[&#39;ref&#39;] is null in AutoFilter](https://github.com/PHPOffice/PhpSpreadsheet/pull/2596) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (8 months ago)
 - [fixed is_file() call with null in PHP 8.1](https://github.com/lbuchs/WebAuthn/pull/53) on [lbuchs/WebAuthn](https://github.com/lbuchs/WebAuthn) (10 months ago)
 - [added version detection rather then suppressing obvious error](https://github.com/PHPOffice/PhpSpreadsheet/pull/2438) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (10 months ago)
-- [convert issuer to string prevents php 8.1 errors](https://github.com/RobThree/TwoFactorAuth/pull/83) on [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) (10 months ago)
+- [convert issuer to string prevents php 8.1 errors](https://github.com/RobThree/TwoFactorAuth/pull/83) on [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) (11 months ago)
 - [V2 dev](https://github.com/brainfoolong/form-data-json/pull/19) on [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) (1 year ago)
 - [fixed null conversation for strToUpper](https://github.com/PHPOffice/PhpSpreadsheet/pull/2292) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (1 year ago)
 - [fix implicit cast deprecation in php8.1](https://github.com/PHPOffice/PhpSpreadsheet/pull/2210) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (1 year ago)
