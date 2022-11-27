@@ -64,8 +64,8 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👯 Check out some of my recent followers
 
+- [martiz](https://github.com/martiz)
 - [coderbm1](https://github.com/coderbm1)
 - [Waffa](https://github.com/Waffa)
 - [dfx0110](https://github.com/dfx0110)
 - [m0rp43us](https://github.com/m0rp43us)
-- [chanpat](https://github.com/chanpat)
