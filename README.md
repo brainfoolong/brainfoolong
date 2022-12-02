@@ -7,14 +7,14 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [NullixAT/framelix-core](https://github.com/NullixAT/framelix-core) - A full featured PHP framework with built-in backend and data management capabilities. (today)
-- [NullixAT/framelix-tests](https://github.com/NullixAT/framelix-tests) - Framelix Core Unit Tests (today)
-- [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) - PageMyself - Create and host your website fast and easy! (3 days ago)
-- [brainfoolong/better-battlelog](https://github.com/brainfoolong/better-battlelog) - Better Battlelog legacy code and legacy website. It was fun :) (5 days ago)
+- [NullixAT/framelix-core](https://github.com/NullixAT/framelix-core) - A full featured PHP framework with built-in backend and data management capabilities. (1 day ago)
+- [NullixAT/framelix-tests](https://github.com/NullixAT/framelix-tests) - Framelix Core Unit Tests (1 day ago)
+- [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) - PageMyself - Create and host your website fast and easy! (4 days ago)
+- [brainfoolong/better-battlelog](https://github.com/brainfoolong/better-battlelog) - Better Battlelog legacy code and legacy website. It was fun :) (6 days ago)
 - [NullixAT/framelix-docker](https://github.com/NullixAT/framelix-docker) - A full featured PHP framework with built-in backend and data management capabilities. (1 week ago)
 - [NullixAT/buhax](https://github.com/NullixAT/buhax) - Buhax - Accounting software for small companies without VAT (1 month ago)
 - [NullixAT/browstorjs](https://github.com/NullixAT/browstorjs) - Persistent key/value data storage for your Browser and/or PWA, promisified, including file support and service worker support, all with IndexedDB. Perfectly suitable for your next (PWA) app. (4 months ago)
-- [NullixAT/framelix-docs](https://github.com/NullixAT/framelix-docs) - Documentation and staring point for Framelix PHP Framework. (6 months ago)
+- [NullixAT/framelix-docs](https://github.com/NullixAT/framelix-docs) - Documentation and staring point for Framelix PHP Framework. (7 months ago)
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object. (7 months ago)
 - [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) - CryptoJS 3.x AES encryption/decryption on client side with Javascript and on server side with PHP (8 months ago)
 
@@ -45,7 +45,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [fixed regexp not properly escape windows backslash in path](https://github.com/microsoft/playwright/pull/17690) on [microsoft/playwright](https://github.com/microsoft/playwright) (2 months ago)
 - [fix php 8.1 error when autoFilter[&#39;ref&#39;] is null in AutoFilter](https://github.com/PHPOffice/PhpSpreadsheet/pull/2596) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (9 months ago)
 - [fixed is_file() call with null in PHP 8.1](https://github.com/lbuchs/WebAuthn/pull/53) on [lbuchs/WebAuthn](https://github.com/lbuchs/WebAuthn) (11 months ago)
-- [added version detection rather then suppressing obvious error](https://github.com/PHPOffice/PhpSpreadsheet/pull/2438) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (11 months ago)
+- [added version detection rather then suppressing obvious error](https://github.com/PHPOffice/PhpSpreadsheet/pull/2438) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (1 year ago)
 - [convert issuer to string prevents php 8.1 errors](https://github.com/RobThree/TwoFactorAuth/pull/83) on [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) (1 year ago)
 - [V2 dev](https://github.com/brainfoolong/form-data-json/pull/19) on [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) (1 year ago)
 - [fixed null conversation for strToUpper](https://github.com/PHPOffice/PhpSpreadsheet/pull/2292) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (1 year ago)
