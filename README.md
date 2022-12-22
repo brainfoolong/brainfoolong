@@ -7,8 +7,8 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [NullixAT/framelix-core](https://github.com/NullixAT/framelix-core) - A full featured PHP framework with built-in backend and data management capabilities. (today)
-- [NullixAT/framelix-tests](https://github.com/NullixAT/framelix-tests) - Framelix Core Unit Tests (today)
+- [NullixAT/framelix-core](https://github.com/NullixAT/framelix-core) - A full featured PHP framework with built-in backend and data management capabilities. (1 day ago)
+- [NullixAT/framelix-tests](https://github.com/NullixAT/framelix-tests) - Framelix Core Unit Tests (1 day ago)
 - [NullixAT/framelix-docker](https://github.com/NullixAT/framelix-docker) - A full featured PHP framework with built-in backend and data management capabilities. (1 week ago)
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object. (2 weeks ago)
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) - PageMyself - Create and host your website fast and easy! (3 weeks ago)
@@ -33,7 +33,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) ([1.26.0](https://github.com/PHPOffice/PhpSpreadsheet/releases/tag/1.26.0), today) - A pure PHP library for reading and writing spreadsheet files
+- [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) ([1.26.0](https://github.com/PHPOffice/PhpSpreadsheet/releases/tag/1.26.0), 1 day ago) - A pure PHP library for reading and writing spreadsheet files
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) ([2.1.4](https://github.com/brainfoolong/form-data-json/releases/tag/2.1.4), 2 weeks ago) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object.
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) ([1.0.0-beta.6](https://github.com/NullixAT/pagemyself/releases/tag/1.0.0-beta.6), 3 months ago) - PageMyself - Create and host your website fast and easy!
 - [NullixAT/browstorjs](https://github.com/NullixAT/browstorjs) ([1.2.0](https://github.com/NullixAT/browstorjs/releases/tag/1.2.0), 4 months ago) - Persistent key/value data storage for your Browser and/or PWA, promisified, including file support and service worker support, all with IndexedDB. Perfectly suitable for your next (PWA) app.
