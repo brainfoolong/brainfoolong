@@ -5,7 +5,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [NullixAT/framelix-core](https://github.com/NullixAT/framelix-core) - A full featured PHP framework with built-in backend and data management capabilities. (2 days ago)
+- [NullixAT/framelix-core](https://github.com/NullixAT/framelix-core) - A full featured PHP framework with built-in backend and data management capabilities. (3 days ago)
 - [NullixAT/framelix-tests](https://github.com/NullixAT/framelix-tests) - Framelix Core Unit Tests (1 month ago)
 - [NullixAT/framelix-docker](https://github.com/NullixAT/framelix-docker) - A full featured PHP framework with built-in backend and data management capabilities. (1 month ago)
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object. (1 month ago)
@@ -31,7 +31,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) ([1.27.0](https://github.com/PHPOffice/PhpSpreadsheet/releases/tag/1.27.0), 5 days ago) - A pure PHP library for reading and writing spreadsheet files
+- [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) ([1.27.0](https://github.com/PHPOffice/PhpSpreadsheet/releases/tag/1.27.0), 6 days ago) - A pure PHP library for reading and writing spreadsheet files
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) ([2.1.4](https://github.com/brainfoolong/form-data-json/releases/tag/2.1.4), 1 month ago) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object.
 - [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) ([1.0.0-beta.6](https://github.com/NullixAT/pagemyself/releases/tag/1.0.0-beta.6), 4 months ago) - PageMyself - Create and host your website fast and easy!
 - [NullixAT/browstorjs](https://github.com/NullixAT/browstorjs) ([1.2.0](https://github.com/NullixAT/browstorjs/releases/tag/1.2.0), 6 months ago) - Persistent key/value data storage for your Browser and/or PWA, promisified, including file support and service worker support, all with IndexedDB. Perfectly suitable for your next (PWA) app.
@@ -52,7 +52,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 📓 Gists I wrote
 
-- [BitMask Demo](https://gist.github.com/4c30bdf9d94acfa4d2f61f0ae932ef71) (1 year ago)
+- [BitMask Demo](https://gist.github.com/4c30bdf9d94acfa4d2f61f0ae932ef71) (2 years ago)
 - [A simple stopwatch for your recordings in OBS Studio](https://gist.github.com/5750da1529a88c6c4a125b0a157c5d46) (3 years ago)
 
 #### ⭐ Recent Stars
