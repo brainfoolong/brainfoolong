@@ -32,7 +32,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 - [NullixAT/browstorjs](https://github.com/NullixAT/browstorjs) ([1.3.0](https://github.com/NullixAT/browstorjs/releases/tag/1.3.0), 1 month ago) - Persistent key/value data storage for your Browser and/or PWA, promisified, including file support and service worker support, all with IndexedDB. Perfectly suitable for your next (PWA) app.
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) ([2.1.4](https://github.com/brainfoolong/form-data-json/releases/tag/2.1.4), 3 months ago) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object.
-- [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) ([1.0.0-beta.6](https://github.com/NullixAT/pagemyself/releases/tag/1.0.0-beta.6), 5 months ago) - PageMyself - Create and host your website fast and easy!
+- [NullixAT/pagemyself](https://github.com/NullixAT/pagemyself) ([1.0.0-beta.6](https://github.com/NullixAT/pagemyself/releases/tag/1.0.0-beta.6), 6 months ago) - PageMyself - Create and host your website fast and easy!
 - [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) ([2.1.1](https://github.com/brainfoolong/cryptojs-aes-php/releases/tag/2.1.1), 2 years ago) - CryptoJS 3.x AES encryption/decryption on client side with Javascript and on server side with PHP
 
 #### 🔨 My recent Pull Requests
