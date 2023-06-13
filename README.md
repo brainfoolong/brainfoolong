@@ -5,7 +5,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) - CryptoJS 3.x AES encryption/decryption on client side with Javascript and on server side with PHP (1 day ago)
+- [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) - CryptoJS 3.x AES encryption/decryption on client side with Javascript and on server side with PHP (today)
 - [frmlx/framelix](https://github.com/frmlx/framelix) - A rich featured, Full-Stack PHP framework with built-in backend and data management capabilities for internal/public data applications. (2 weeks ago)
 - [brainfoolong/better-battlelog](https://github.com/brainfoolong/better-battlelog) - Better Battlelog legacy code and legacy website. It was fun :) (1 month ago)
 - [brainfoolong/bomnibox](https://github.com/brainfoolong/bomnibox) - Optimized fuzzy omnibox history search for chrome - Like firefox quick history search (2 months ago)
