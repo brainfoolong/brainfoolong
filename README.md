@@ -33,7 +33,6 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔨 My recent Pull Requests
 
-- [fixing unserialize error in PHP 8.3](https://github.com/brainfoolong/mpdf/pull/1) on [brainfoolong/mpdf](https://github.com/brainfoolong/mpdf) (1 day ago)
 - [fixed wrong codepoint (also wrong on website)](https://github.com/stephenhutchings/microns/pull/22) on [stephenhutchings/microns](https://github.com/stephenhutchings/microns) (1 month ago)
 - [fixed regexp not properly escape windows backslash in path](https://github.com/microsoft/playwright/pull/17690) on [microsoft/playwright](https://github.com/microsoft/playwright) (8 months ago)
 - [fix php 8.1 error when autoFilter[&#39;ref&#39;] is null in AutoFilter](https://github.com/PHPOffice/PhpSpreadsheet/pull/2596) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (1 year ago)
@@ -43,6 +42,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [V2 dev](https://github.com/brainfoolong/form-data-json/pull/19) on [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) (2 years ago)
 - [fixed null conversation for strToUpper](https://github.com/PHPOffice/PhpSpreadsheet/pull/2292) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (2 years ago)
 - [fix implicit cast deprecation in php8.1](https://github.com/PHPOffice/PhpSpreadsheet/pull/2210) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (2 years ago)
+- [fixed missing return value](https://github.com/JetBrains/phpstorm-stubs/pull/1151) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (2 years ago)
 
 #### 📓 Gists I wrote
 
