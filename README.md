@@ -5,7 +5,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) - CryptoJS 3.x AES encryption/decryption on client side with Javascript and on server side with PHP (6 days ago)
+- [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) - CryptoJS 3.x AES encryption/decryption on client side with Javascript and on server side with PHP (1 week ago)
 - [frmlx/framelix](https://github.com/frmlx/framelix) - A rich featured, Full-Stack PHP framework with built-in backend and data management capabilities for internal/public data applications. (3 weeks ago)
 - [brainfoolong/better-battlelog](https://github.com/brainfoolong/better-battlelog) - Better Battlelog legacy code and legacy website. It was fun :) (1 month ago)
 - [brainfoolong/bomnibox](https://github.com/brainfoolong/bomnibox) - Optimized fuzzy omnibox history search for chrome - Like firefox quick history search (2 months ago)
@@ -27,13 +27,13 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
-- [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) ([2.2.0](https://github.com/brainfoolong/cryptojs-aes-php/releases/tag/2.2.0), 6 days ago) - CryptoJS 3.x AES encryption/decryption on client side with Javascript and on server side with PHP
+- [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) ([2.2.0](https://github.com/brainfoolong/cryptojs-aes-php/releases/tag/2.2.0), 1 week ago) - CryptoJS 3.x AES encryption/decryption on client side with Javascript and on server side with PHP
 - [NullixAT/browstorjs](https://github.com/NullixAT/browstorjs) ([1.3.0](https://github.com/NullixAT/browstorjs/releases/tag/1.3.0), 4 months ago) - Persistent key/value data storage for your Browser and/or PWA, promisified, including file support and service worker support, all with IndexedDB. Perfectly suitable for your next (PWA) app.
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) ([2.1.4](https://github.com/brainfoolong/form-data-json/releases/tag/2.1.4), 6 months ago) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object.
 
 #### 🔨 My recent Pull Requests
 
-- [fixing unserialize error in PHP 8.3](https://github.com/brainfoolong/mpdf/pull/1) on [brainfoolong/mpdf](https://github.com/brainfoolong/mpdf) (today)
+- [fixing unserialize error in PHP 8.3](https://github.com/brainfoolong/mpdf/pull/1) on [brainfoolong/mpdf](https://github.com/brainfoolong/mpdf) (1 day ago)
 - [fixed wrong codepoint (also wrong on website)](https://github.com/stephenhutchings/microns/pull/22) on [stephenhutchings/microns](https://github.com/stephenhutchings/microns) (1 month ago)
 - [fixed regexp not properly escape windows backslash in path](https://github.com/microsoft/playwright/pull/17690) on [microsoft/playwright](https://github.com/microsoft/playwright) (8 months ago)
 - [fix php 8.1 error when autoFilter[&#39;ref&#39;] is null in AutoFilter](https://github.com/PHPOffice/PhpSpreadsheet/pull/2596) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (1 year ago)
