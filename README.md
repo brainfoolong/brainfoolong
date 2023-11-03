@@ -54,8 +54,8 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👯 Check out some of my recent followers
 
+- [Neustradamus](https://github.com/Neustradamus)
 - [FrannDzs](https://github.com/FrannDzs)
 - [hafewa](https://github.com/hafewa)
 - [Ghost4480](https://github.com/Ghost4480)
 - [Sandalots](https://github.com/Sandalots)
-- [martiz](https://github.com/martiz)
