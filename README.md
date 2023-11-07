@@ -9,7 +9,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object. (2 months ago)
 - [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) - CryptoJS 3.x AES encryption/decryption on client side with Javascript and on server side with PHP (4 months ago)
 - [brainfoolong/better-battlelog](https://github.com/brainfoolong/better-battlelog) - Better Battlelog legacy code and legacy website. It was fun :) (6 months ago)
-- [brainfoolong/bomnibox](https://github.com/brainfoolong/bomnibox) - Optimized fuzzy omnibox history search for chrome - Like firefox quick history search (6 months ago)
+- [brainfoolong/bomnibox](https://github.com/brainfoolong/bomnibox) - Optimized fuzzy omnibox history search for chrome - Like firefox quick history search (7 months ago)
 - [NullixAT/browstorjs](https://github.com/NullixAT/browstorjs) - Persistent key/value data storage for your Browser and/or PWA, promisified, including file support and service worker support, all with IndexedDB. Perfectly suitable for your next (PWA) app. (9 months ago)
 
 #### 🌱 My latest projects
