@@ -14,6 +14,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🌱 My latest projects
 
+- [brainfoolong/php-ascon](https://github.com/brainfoolong/php-ascon) - PHP Implementation of Ascon
 - [brainfoolong/misc](https://github.com/brainfoolong/misc) - Miscellaneous
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object.
 - [brainfoolong/better-battlelog](https://github.com/brainfoolong/better-battlelog) - Better Battlelog legacy code and legacy website. It was fun :)
@@ -23,7 +24,6 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [brainfoolong/rwa-timedcommands](https://github.com/brainfoolong/rwa-timedcommands) - TimedCommands - A widget for RCON Web Admin.
 - [brainfoolong/rwa-rustboard](https://github.com/brainfoolong/rwa-rustboard) - Rustboard - A widget for RCON Web Admin.
 - [brainfoolong/rwa-console](https://github.com/brainfoolong/rwa-console) - Console - A widget for RCON Web Admin
-- [brainfoolong/rwa-autobot](https://github.com/brainfoolong/rwa-autobot) - Autobot - A widget for RCON Web Admin. Automate everything.
 
 #### 🔭 Latest releases I've contributed to
 
