@@ -5,8 +5,8 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) - CryptoJS AES encryption/decryption on client side with Javascript and on server side with PHP (5 days ago)
-- [brainfoolong/gdscript-midi-parser](https://github.com/brainfoolong/gdscript-midi-parser) - Godot GDScript 4&#43; Midi File Parser (5 days ago)
+- [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) - CryptoJS AES encryption/decryption on client side with Javascript and on server side with PHP (6 days ago)
+- [brainfoolong/gdscript-midi-parser](https://github.com/brainfoolong/gdscript-midi-parser) - Godot GDScript 4&#43; Midi File Parser (6 days ago)
 - [brainfoolong/php-ascon](https://github.com/brainfoolong/php-ascon) - PHP 8&#43; Implementation of Ascon, a family of authenticated encryption (AEAD) and hashing algorithms designed to be lightweight (4 weeks ago)
 - [brainfoolong/js-ascon](https://github.com/brainfoolong/js-ascon) - JavaScript / TypeScript Implementation of Ascon, a family of authenticated encryption (AEAD) and hashing algorithms designed to be lightweight. (4 weeks ago)
 - [frmlx/framelix](https://github.com/frmlx/framelix) - A rich featured, Full-Stack PHP framework with built-in backend and data management capabilities for internal/public data applications. (1 month ago)
@@ -36,7 +36,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔨 My recent Pull Requests
 
-- [Added PHP and JS/TS submodules](https://github.com/ascon/ascon_collection/pull/2) on [ascon/ascon_collection](https://github.com/ascon/ascon_collection) (1 week ago)
+- [Added PHP and JS/TS submodules](https://github.com/ascon/ascon_collection/pull/2) on [ascon/ascon_collection](https://github.com/ascon/ascon_collection) (2 weeks ago)
 - [fixed wrong codepoint (also wrong on website)](https://github.com/stephenhutchings/microns/pull/22) on [stephenhutchings/microns](https://github.com/stephenhutchings/microns) (8 months ago)
 - [fixed regexp not properly escape windows backslash in path](https://github.com/microsoft/playwright/pull/17690) on [microsoft/playwright](https://github.com/microsoft/playwright) (1 year ago)
 - [fix php 8.1 error when autoFilter[&#39;ref&#39;] is null in AutoFilter](https://github.com/PHPOffice/PhpSpreadsheet/pull/2596) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (2 years ago)
