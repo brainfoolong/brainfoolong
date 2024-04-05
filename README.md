@@ -5,7 +5,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [frmlx/framelix](https://github.com/frmlx/framelix) - A rich featured, Full-Stack PHP framework with built-in backend and data management capabilities for internal/public data applications. (3 days ago)
+- [frmlx/framelix](https://github.com/frmlx/framelix) - A rich featured, Full-Stack PHP framework with built-in backend and data management capabilities for internal/public data applications. (4 days ago)
 - [brainfoolong/js-ascon](https://github.com/brainfoolong/js-ascon) - JavaScript / TypeScript Implementation of Ascon, a family of authenticated encryption (AEAD) and hashing algorithms designed to be lightweight. (1 week ago)
 - [NullixAT/browstorjs](https://github.com/NullixAT/browstorjs) - Persistent key/value data storage for your Browser and/or PWA, promisified, including file support and service worker support, all with IndexedDB. Perfectly suitable for your next (PWA) app. (1 month ago)
 - [brainfoolong/gdscript-midi-parser](https://github.com/brainfoolong/gdscript-midi-parser) - Godot GDScript 4&#43; Midi File Parser and Player (2 months ago)
@@ -13,7 +13,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [brainfoolong/php-ascon](https://github.com/brainfoolong/php-ascon) - PHP 8&#43; Implementation of Ascon, a family of authenticated encryption (AEAD) and hashing algorithms designed to be lightweight (4 months ago)
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object. (7 months ago)
 - [brainfoolong/better-battlelog](https://github.com/brainfoolong/better-battlelog) - Better Battlelog legacy code and legacy website. It was fun :) (11 months ago)
-- [brainfoolong/bomnibox](https://github.com/brainfoolong/bomnibox) - Optimized fuzzy omnibox history search for chrome - Like firefox quick history search (11 months ago)
+- [brainfoolong/bomnibox](https://github.com/brainfoolong/bomnibox) - Optimized fuzzy omnibox history search for chrome - Like firefox quick history search (1 year ago)
 
 #### 🌱 My latest projects
 
