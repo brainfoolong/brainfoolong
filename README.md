@@ -12,7 +12,6 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [brainfoolong/gdscript-midi-parser](https://github.com/brainfoolong/gdscript-midi-parser) - Godot GDScript 4&#43; Midi File Parser and Player (2 months ago)
 - [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) - CryptoJS AES encryption/decryption on client side with Javascript and on server side with PHP (3 months ago)
 - [brainfoolong/php-ascon](https://github.com/brainfoolong/php-ascon) - PHP 8&#43; Implementation of Ascon, a family of authenticated encryption (AEAD) and hashing algorithms designed to be lightweight (4 months ago)
-- [brainfoolong/better-battlelog](https://github.com/brainfoolong/better-battlelog) - Better Battlelog legacy code and legacy website. It was fun :) (1 year ago)
 
 #### 🌱 My latest projects
 
