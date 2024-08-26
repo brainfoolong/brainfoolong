@@ -31,7 +31,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 - [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) ([1.0.1](https://github.com/brainfoolong/js-aes-php/releases/tag/1.0.1), 1 week ago) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required.
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) ([2.2.2](https://github.com/brainfoolong/form-data-json/releases/tag/2.2.2), 4 months ago) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object.
-- [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) ([2.3.0](https://github.com/brainfoolong/cryptojs-aes-php/releases/tag/2.3.0), 8 months ago) - CryptoJS AES encryption/decryption on client side with Javascript and on server side with PHP
+- [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) ([2.3.0](https://github.com/brainfoolong/cryptojs-aes-php/releases/tag/2.3.0), 9 months ago) - CryptoJS AES encryption/decryption on client side with Javascript and on server side with PHP
 - [NullixAT/browstorjs](https://github.com/NullixAT/browstorjs) ([1.3.0](https://github.com/NullixAT/browstorjs/releases/tag/1.3.0), 2 years ago) - Persistent key/value data storage for your Browser and/or PWA, promisified, including file support and service worker support, all with IndexedDB. Perfectly suitable for your next (PWA) app.
 
 #### 🔨 My recent Pull Requests
