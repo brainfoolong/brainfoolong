@@ -12,7 +12,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [brainfoolong/js-ascon](https://github.com/brainfoolong/js-ascon) - JavaScript / TypeScript Implementation of Ascon, a family of authenticated encryption (AEAD) and hashing algorithms designed to be lightweight. (5 months ago)
 - [NullixAT/browstorjs](https://github.com/NullixAT/browstorjs) - Persistent key/value data storage for your Browser and/or PWA, promisified, including file support and service worker support, all with IndexedDB. Perfectly suitable for your next (PWA) app. (6 months ago)
 - [brainfoolong/gdscript-midi-parser](https://github.com/brainfoolong/gdscript-midi-parser) - Godot GDScript 4&#43; Midi File Parser and Player (7 months ago)
-- [brainfoolong/php-ascon](https://github.com/brainfoolong/php-ascon) - PHP 8&#43; Implementation of Ascon, a family of authenticated encryption (AEAD) and hashing algorithms designed to be lightweight (8 months ago)
+- [brainfoolong/php-ascon](https://github.com/brainfoolong/php-ascon) - PHP 8&#43; Implementation of Ascon, a family of authenticated encryption (AEAD) and hashing algorithms designed to be lightweight (9 months ago)
 
 #### 🌱 My latest projects
 
