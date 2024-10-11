@@ -5,7 +5,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) - Main game repository for Beyond All Reason. (today)
+- [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) - Main game repository for Beyond All Reason. (1 day ago)
 - [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required. (1 month ago)
 - [frmlx/framelix](https://github.com/frmlx/framelix) - A rich featured, Full-Stack PHP framework with built-in backend and data management capabilities for internal/public data applications. (1 month ago)
 - [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) - CryptoJS AES encryption/decryption on client side with Javascript and on server side with PHP (1 month ago)
@@ -37,8 +37,8 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔨 My recent Pull Requests
 
-- [adding sc_n (command_skip_current) and ctrl&#43;sc_n command_cancel_last to legacy keybinds](https://github.com/beyond-all-reason/Beyond-All-Reason/pull/3719) on [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) (3 weeks ago)
-- [adding sc_n (command_skip_current) and ctrl&#43;sc_n command_cancel_last to legacy keybinds](https://github.com/beyond-all-reason/Beyond-All-Reason/pull/3718) on [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) (3 weeks ago)
+- [adding sc_n (command_skip_current) and ctrl&#43;sc_n command_cancel_last to legacy keybinds](https://github.com/beyond-all-reason/Beyond-All-Reason/pull/3719) on [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) (4 weeks ago)
+- [adding sc_n (command_skip_current) and ctrl&#43;sc_n command_cancel_last to legacy keybinds](https://github.com/beyond-all-reason/Beyond-All-Reason/pull/3718) on [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) (4 weeks ago)
 - [Added PHP and JS/TS submodules](https://github.com/ascon/ascon_collection/pull/2) on [ascon/ascon_collection](https://github.com/ascon/ascon_collection) (9 months ago)
 - [fixed wrong codepoint (also wrong on website)](https://github.com/stephenhutchings/microns/pull/22) on [stephenhutchings/microns](https://github.com/stephenhutchings/microns) (1 year ago)
 - [fixed regexp not properly escape windows backslash in path](https://github.com/microsoft/playwright/pull/17690) on [microsoft/playwright](https://github.com/microsoft/playwright) (2 years ago)
