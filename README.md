@@ -5,8 +5,8 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP (2 weeks ago)
-- [aVadim483/fast-excel-helper](https://github.com/aVadim483/fast-excel-helper) -  (2 weeks ago)
+- [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP (3 weeks ago)
+- [aVadim483/fast-excel-helper](https://github.com/aVadim483/fast-excel-helper) -  (3 weeks ago)
 - [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) - Main game repository for Beyond All Reason. (1 month ago)
 - [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required. (2 months ago)
 - [frmlx/framelix](https://github.com/frmlx/framelix) - A rich featured, Full-Stack PHP framework with built-in backend and data management capabilities for internal/public data applications. (2 months ago)
@@ -32,7 +32,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 #### 🔭 Latest releases I've contributed to
 
 - [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) ([v6.2.0](https://github.com/aVadim483/fast-excel-writer/releases/tag/v6.2.0), 2 weeks ago) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP
-- [aVadim483/fast-excel-helper](https://github.com/aVadim483/fast-excel-helper) ([v1.2.2](https://github.com/aVadim483/fast-excel-helper/releases/tag/v1.2.2), 2 weeks ago) - 
+- [aVadim483/fast-excel-helper](https://github.com/aVadim483/fast-excel-helper) ([v1.2.2](https://github.com/aVadim483/fast-excel-helper/releases/tag/v1.2.2), 3 weeks ago) - 
 - [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) ([1.0.1](https://github.com/brainfoolong/js-aes-php/releases/tag/1.0.1), 3 months ago) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required.
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) ([2.2.2](https://github.com/brainfoolong/form-data-json/releases/tag/2.2.2), 7 months ago) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object.
 - [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) ([2.3.0](https://github.com/brainfoolong/cryptojs-aes-php/releases/tag/2.3.0), 11 months ago) - CryptoJS AES encryption/decryption on client side with Javascript and on server side with PHP
@@ -40,9 +40,9 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔨 My recent Pull Requests
 
-- [fixed unclosed filehandle](https://github.com/aVadim483/fast-excel-writer/pull/91) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (2 weeks ago)
-- [fixed php 8.4 warning](https://github.com/aVadim483/fast-excel-helper/pull/3) on [aVadim483/fast-excel-helper](https://github.com/aVadim483/fast-excel-helper) (2 weeks ago)
-- [fixed php 8.4 warning ](https://github.com/aVadim483/fast-excel-writer/pull/90) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (2 weeks ago)
+- [fixed unclosed filehandle](https://github.com/aVadim483/fast-excel-writer/pull/91) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (3 weeks ago)
+- [fixed php 8.4 warning](https://github.com/aVadim483/fast-excel-helper/pull/3) on [aVadim483/fast-excel-helper](https://github.com/aVadim483/fast-excel-helper) (3 weeks ago)
+- [fixed php 8.4 warning ](https://github.com/aVadim483/fast-excel-writer/pull/90) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (3 weeks ago)
 - [adding sc_n (command_skip_current) and ctrl&#43;sc_n command_cancel_last to legacy keybinds](https://github.com/beyond-all-reason/Beyond-All-Reason/pull/3719) on [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) (2 months ago)
 - [adding sc_n (command_skip_current) and ctrl&#43;sc_n command_cancel_last to legacy keybinds](https://github.com/beyond-all-reason/Beyond-All-Reason/pull/3718) on [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) (2 months ago)
 - [Added PHP and JS/TS submodules](https://github.com/ascon/ascon_collection/pull/2) on [ascon/ascon_collection](https://github.com/ascon/ascon_collection) (11 months ago)
