@@ -64,6 +64,6 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 - [AgustinAboytes](https://github.com/AgustinAboytes)
 - [laocoi](https://github.com/laocoi)
-- [eust-w](https://github.com/eust-w)
 - [mochfatchur](https://github.com/mochfatchur)
 - [mindell](https://github.com/mindell)
+- [chenyongze](https://github.com/chenyongze)
