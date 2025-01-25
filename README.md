@@ -5,7 +5,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object. (5 days ago)
+- [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object. (6 days ago)
 - [NullixAT/nullix-server-hardware-performance-test-tool](https://github.com/NullixAT/nullix-server-hardware-performance-test-tool) - A simple command line tool to test your server/desktop/hardware performance. (1 week ago)
 - [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required. (1 month ago)
 - [frmlx/framelix](https://github.com/frmlx/framelix) - A rich featured, Full-Stack PHP framework with built-in backend and data management capabilities for internal/public data applications. (1 month ago)
@@ -31,9 +31,9 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
-- [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) ([2.2.3](https://github.com/brainfoolong/form-data-json/releases/tag/2.2.3), 5 days ago) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object.
+- [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) ([2.2.3](https://github.com/brainfoolong/form-data-json/releases/tag/2.2.3), 6 days ago) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object.
 - [NullixAT/nullix-server-hardware-performance-test-tool](https://github.com/NullixAT/nullix-server-hardware-performance-test-tool) ([0.2.0](https://github.com/NullixAT/nullix-server-hardware-performance-test-tool/releases/tag/0.2.0), 1 week ago) - A simple command line tool to test your server/desktop/hardware performance.
-- [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) ([v6.4.1](https://github.com/aVadim483/fast-excel-writer/releases/tag/v6.4.1), 1 week ago) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP
+- [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) ([v6.4.1](https://github.com/aVadim483/fast-excel-writer/releases/tag/v6.4.1), 2 weeks ago) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP
 - [aVadim483/fast-excel-helper](https://github.com/aVadim483/fast-excel-helper) ([v1.2.2](https://github.com/aVadim483/fast-excel-helper/releases/tag/v1.2.2), 2 months ago) - 
 - [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) ([1.0.1](https://github.com/brainfoolong/js-aes-php/releases/tag/1.0.1), 5 months ago) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required.
 - [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) ([2.3.0](https://github.com/brainfoolong/cryptojs-aes-php/releases/tag/2.3.0), 1 year ago) - CryptoJS AES encryption/decryption on client side with Javascript and on server side with PHP
