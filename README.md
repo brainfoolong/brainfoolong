@@ -5,6 +5,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
+- [brainfoolong/gdscript-midi-parser](https://github.com/brainfoolong/gdscript-midi-parser) - Godot GDScript 4&#43; Midi File Parser and Player (today)
 - [frmlx/framelix](https://github.com/frmlx/framelix) - A rich featured, Full-Stack PHP framework with built-in backend and data management capabilities for internal/public data applications. (5 days ago)
 - [brainfoolong/js-ascon](https://github.com/brainfoolong/js-ascon) - JavaScript / TypeScript Implementation of Ascon, a family of authenticated encryption (AEAD) and hashing algorithms designed to be lightweight. (2 weeks ago)
 - [brainfoolong/php-ascon](https://github.com/brainfoolong/php-ascon) - PHP 8&#43; Implementation of Ascon, a family of authenticated encryption (AEAD) and hashing algorithms designed to be lightweight (2 weeks ago)
@@ -14,7 +15,6 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP (5 months ago)
 - [aVadim483/fast-excel-helper](https://github.com/aVadim483/fast-excel-helper) -  (5 months ago)
 - [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) - Main game repository for Beyond All Reason. (5 months ago)
-- [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) - CryptoJS AES encryption/decryption on client side with Javascript and on server side with PHP (7 months ago)
 
 #### 🌱 My latest projects
 
