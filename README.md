@@ -38,7 +38,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [aVadim483/fast-excel-helper](https://github.com/aVadim483/fast-excel-helper) ([v1.2.3](https://github.com/aVadim483/fast-excel-helper/releases/tag/v1.2.3), 3 months ago) - 
 - [NullixAT/nullix-server-hardware-performance-test-tool](https://github.com/NullixAT/nullix-server-hardware-performance-test-tool) ([0.2.0](https://github.com/NullixAT/nullix-server-hardware-performance-test-tool/releases/tag/0.2.0), 4 months ago) - A simple command line tool to test your server/desktop/hardware performance.
 - [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) ([1.0.1](https://github.com/brainfoolong/js-aes-php/releases/tag/1.0.1), 9 months ago) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required.
-- [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) ([2.3.0](https://github.com/brainfoolong/cryptojs-aes-php/releases/tag/2.3.0), 1 year ago) - CryptoJS AES encryption/decryption on client side with Javascript and on server side with PHP
+- [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) ([2.3.0](https://github.com/brainfoolong/cryptojs-aes-php/releases/tag/2.3.0), 2 years ago) - CryptoJS AES encryption/decryption on client side with Javascript and on server side with PHP
 
 #### 🔨 My recent Pull Requests
 
