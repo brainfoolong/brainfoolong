@@ -31,7 +31,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
-- [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) ([v6.6.1](https://github.com/aVadim483/fast-excel-writer/releases/tag/v6.6.1), today) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP
+- [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) ([v6.6.1](https://github.com/aVadim483/fast-excel-writer/releases/tag/v6.6.1), 1 day ago) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP
 - [aVadim483/fast-excel-helper](https://github.com/aVadim483/fast-excel-helper) ([v1.3.0](https://github.com/aVadim483/fast-excel-helper/releases/tag/v1.3.0), 3 weeks ago) - 
 - [brainfoolong/js-ascon](https://github.com/brainfoolong/js-ascon) ([1.3.0](https://github.com/brainfoolong/js-ascon/releases/tag/1.3.0), 3 months ago) - JavaScript / TypeScript Implementation of Ascon, a family of authenticated encryption (AEAD) and hashing algorithms designed to be lightweight.
 - [brainfoolong/php-ascon](https://github.com/brainfoolong/php-ascon) ([1.3.0](https://github.com/brainfoolong/php-ascon/releases/tag/1.3.0), 3 months ago) - PHP 8&#43; Implementation of Ascon, a family of authenticated encryption (AEAD) and hashing algorithms designed to be lightweight
