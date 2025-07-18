@@ -5,6 +5,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
+- [brainfoolong/powcaptcha](https://github.com/brainfoolong/powcaptcha) - User friendly invisible Proof of Work Captcha/Challenge for your browser without any required user interaction (today)
 - [frmlx/framelix](https://github.com/frmlx/framelix) - A rich featured, Full-Stack PHP framework with built-in backend and data management capabilities for internal/public data applications. (1 week ago)
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object. (2 weeks ago)
 - [brainfoolong/gdscript-midi-parser](https://github.com/brainfoolong/gdscript-midi-parser) - Godot GDScript 4&#43; Midi File Parser and Player (3 months ago)
@@ -14,10 +15,10 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [NullixAT/nullix-server-hardware-performance-test-tool](https://github.com/NullixAT/nullix-server-hardware-performance-test-tool) - A simple command line tool to test your server/desktop/hardware performance. (6 months ago)
 - [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP (8 months ago)
 - [aVadim483/fast-excel-helper](https://github.com/aVadim483/fast-excel-helper) -  (8 months ago)
-- [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) - Main game repository for Beyond All Reason. (9 months ago)
 
 #### 🌱 My latest projects
 
+- [brainfoolong/powcaptcha](https://github.com/brainfoolong/powcaptcha) - User friendly invisible Proof of Work Captcha/Challenge for your browser without any required user interaction
 - [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required.
 - [brainfoolong/gdscript-midi-parser](https://github.com/brainfoolong/gdscript-midi-parser) - Godot GDScript 4&#43; Midi File Parser and Player
 - [brainfoolong/js-ascon](https://github.com/brainfoolong/js-ascon) - JavaScript / TypeScript Implementation of Ascon, a family of authenticated encryption (AEAD) and hashing algorithms designed to be lightweight.
@@ -27,10 +28,10 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [brainfoolong/better-battlelog](https://github.com/brainfoolong/better-battlelog) - Better Battlelog legacy code and legacy website. It was fun :)
 - [brainfoolong/IntoTheBreachTranslations](https://github.com/brainfoolong/IntoTheBreachTranslations) - Inofficial Translations for PC Game Into the Breach.
 - [brainfoolong/unity-music-visualizer](https://github.com/brainfoolong/unity-music-visualizer) - Basic music visualization project for Unity.
-- [brainfoolong/web-ftp-client](https://github.com/brainfoolong/web-ftp-client) - A web based, always online, FTP/SFTP client. Like filezilla but for your browser.
 
 #### 🔭 Latest releases I've contributed to
 
+- [brainfoolong/powcaptcha](https://github.com/brainfoolong/powcaptcha) ([0.1.0](https://github.com/brainfoolong/powcaptcha/releases/tag/0.1.0), today) - User friendly invisible Proof of Work Captcha/Challenge for your browser without any required user interaction
 - [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) ([v6.6.2](https://github.com/aVadim483/fast-excel-writer/releases/tag/v6.6.2), 1 week ago) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP
 - [aVadim483/fast-excel-helper](https://github.com/aVadim483/fast-excel-helper) ([v1.3.0](https://github.com/aVadim483/fast-excel-helper/releases/tag/v1.3.0), 1 month ago) - 
 - [brainfoolong/js-ascon](https://github.com/brainfoolong/js-ascon) ([1.3.0](https://github.com/brainfoolong/js-ascon/releases/tag/1.3.0), 4 months ago) - JavaScript / TypeScript Implementation of Ascon, a family of authenticated encryption (AEAD) and hashing algorithms designed to be lightweight.
