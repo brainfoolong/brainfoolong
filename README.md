@@ -5,6 +5,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
+- [brainfoolong/php-svg-charts](https://github.com/brainfoolong/php-svg-charts) - Generate SVG image charts to be able to use it in web and pdf at the same time. (today)
 - [brainfoolong/powcaptcha](https://github.com/brainfoolong/powcaptcha) - User friendly invisible Proof of Work Captcha/Challenge for your browser without any required user interaction (1 week ago)
 - [frmlx/framelix](https://github.com/frmlx/framelix) - A rich featured, Full-Stack PHP framework with built-in backend and data management capabilities for internal/public data applications. (2 weeks ago)
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object. (1 month ago)
@@ -14,10 +15,10 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required. (6 months ago)
 - [NullixAT/nullix-server-hardware-performance-test-tool](https://github.com/NullixAT/nullix-server-hardware-performance-test-tool) - A simple command line tool to test your server/desktop/hardware performance. (6 months ago)
 - [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP (9 months ago)
-- [aVadim483/fast-excel-helper](https://github.com/aVadim483/fast-excel-helper) -  (9 months ago)
 
 #### 🌱 My latest projects
 
+- [brainfoolong/php-svg-charts](https://github.com/brainfoolong/php-svg-charts) - Generate SVG image charts to be able to use it in web and pdf at the same time.
 - [brainfoolong/powcaptcha](https://github.com/brainfoolong/powcaptcha) - User friendly invisible Proof of Work Captcha/Challenge for your browser without any required user interaction
 - [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required.
 - [brainfoolong/gdscript-midi-parser](https://github.com/brainfoolong/gdscript-midi-parser) - Godot GDScript 4&#43; Midi File Parser and Player
@@ -27,7 +28,6 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object.
 - [brainfoolong/better-battlelog](https://github.com/brainfoolong/better-battlelog) - Better Battlelog legacy code and legacy website. It was fun :)
 - [brainfoolong/IntoTheBreachTranslations](https://github.com/brainfoolong/IntoTheBreachTranslations) - Inofficial Translations for PC Game Into the Breach.
-- [brainfoolong/unity-music-visualizer](https://github.com/brainfoolong/unity-music-visualizer) - Basic music visualization project for Unity.
 
 #### 🔭 Latest releases I've contributed to
 
