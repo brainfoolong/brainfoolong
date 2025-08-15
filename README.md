@@ -40,7 +40,6 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) ([3.0.0](https://github.com/brainfoolong/form-data-json/releases/tag/3.0.0), 5 months ago) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object.
 - [NullixAT/nullix-server-hardware-performance-test-tool](https://github.com/NullixAT/nullix-server-hardware-performance-test-tool) ([0.2.0](https://github.com/NullixAT/nullix-server-hardware-performance-test-tool/releases/tag/0.2.0), 7 months ago) - A simple command line tool to test your server/desktop/hardware performance.
 - [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) ([1.0.1](https://github.com/brainfoolong/js-aes-php/releases/tag/1.0.1), 1 year ago) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required.
-- [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) ([2.3.0](https://github.com/brainfoolong/cryptojs-aes-php/releases/tag/2.3.0), 2 years ago) - CryptoJS AES encryption/decryption on client side with Javascript and on server side with PHP
 
 #### 🔨 My recent Pull Requests
 
