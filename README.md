@@ -43,6 +43,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔨 My recent Pull Requests
 
+- [removed php 8.5 deprecation curl_close](https://github.com/mpdf/mpdf/pull/2121) on [mpdf/mpdf](https://github.com/mpdf/mpdf) (today)
 - [fixed unclosed filehandle](https://github.com/aVadim483/fast-excel-writer/pull/91) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (9 months ago)
 - [fixed php 8.4 warning](https://github.com/aVadim483/fast-excel-helper/pull/3) on [aVadim483/fast-excel-helper](https://github.com/aVadim483/fast-excel-helper) (9 months ago)
 - [fixed php 8.4 warning ](https://github.com/aVadim483/fast-excel-writer/pull/90) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (9 months ago)
@@ -52,7 +53,6 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [fixed wrong codepoint (also wrong on website)](https://github.com/stephenhutchings/microns/pull/22) on [stephenhutchings/microns](https://github.com/stephenhutchings/microns) (2 years ago)
 - [fixed regexp not properly escape windows backslash in path](https://github.com/microsoft/playwright/pull/17690) on [microsoft/playwright](https://github.com/microsoft/playwright) (2 years ago)
 - [fix php 8.1 error when autoFilter[&#39;ref&#39;] is null in AutoFilter](https://github.com/PHPOffice/PhpSpreadsheet/pull/2596) on [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) (3 years ago)
-- [fixed is_file() call with null in PHP 8.1](https://github.com/lbuchs/WebAuthn/pull/53) on [lbuchs/WebAuthn](https://github.com/lbuchs/WebAuthn) (3 years ago)
 
 #### 📓 Gists I wrote
 
