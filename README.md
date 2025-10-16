@@ -5,7 +5,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [brainfoolong/powcaptcha](https://github.com/brainfoolong/powcaptcha) - User friendly invisible Proof of Work Captcha/Challenge for your browser without any required user interaction (1 month ago)
+- [brainfoolong/justnocaptcha](https://github.com/brainfoolong/justnocaptcha) - User friendly, Invisible Proof of Work Captcha/Challenge for your browser without any required user interaction (today)
 - [brainfoolong/gdscript-midi-parser](https://github.com/brainfoolong/gdscript-midi-parser) - Godot GDScript 4&#43; Midi File Parser and Player (1 month ago)
 - [brainfoolong/php-svg-charts](https://github.com/brainfoolong/php-svg-charts) - Generate SVG image charts to be able to use it in web and pdf at the same time. (2 months ago)
 - [frmlx/framelix](https://github.com/frmlx/framelix) - A rich featured, Full-Stack PHP framework with built-in backend and data management capabilities for internal/public data applications. (3 months ago)
@@ -18,8 +18,8 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🌱 My latest projects
 
+- [brainfoolong/justnocaptcha](https://github.com/brainfoolong/justnocaptcha) - User friendly, Invisible Proof of Work Captcha/Challenge for your browser without any required user interaction
 - [brainfoolong/php-svg-charts](https://github.com/brainfoolong/php-svg-charts) - Generate SVG image charts to be able to use it in web and pdf at the same time.
-- [brainfoolong/powcaptcha](https://github.com/brainfoolong/powcaptcha) - User friendly invisible Proof of Work Captcha/Challenge for your browser without any required user interaction
 - [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required.
 - [brainfoolong/gdscript-midi-parser](https://github.com/brainfoolong/gdscript-midi-parser) - Godot GDScript 4&#43; Midi File Parser and Player
 - [brainfoolong/js-ascon](https://github.com/brainfoolong/js-ascon) - JavaScript / TypeScript Implementation of Ascon, a family of authenticated encryption (AEAD) and hashing algorithms designed to be lightweight.
@@ -31,9 +31,9 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
+- [brainfoolong/justnocaptcha](https://github.com/brainfoolong/justnocaptcha) ([0.1.0](https://github.com/brainfoolong/justnocaptcha/releases/tag/0.1.0), today) - User friendly, Invisible Proof of Work Captcha/Challenge for your browser without any required user interaction
 - [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) ([v6.7.1](https://github.com/aVadim483/fast-excel-writer/releases/tag/v6.7.1), 1 week ago) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP. Supports full XLSX-file functionality - cell formatting, formulas, styles, charts, etc.
 - [brainfoolong/php-svg-charts](https://github.com/brainfoolong/php-svg-charts) ([0.2.1](https://github.com/brainfoolong/php-svg-charts/releases/tag/0.2.1), 2 months ago) - Generate SVG image charts to be able to use it in web and pdf at the same time.
-- [brainfoolong/powcaptcha](https://github.com/brainfoolong/powcaptcha) ([0.1.0](https://github.com/brainfoolong/powcaptcha/releases/tag/0.1.0), 3 months ago) - User friendly invisible Proof of Work Captcha/Challenge for your browser without any required user interaction
 - [aVadim483/fast-excel-helper](https://github.com/aVadim483/fast-excel-helper) ([v1.3.0](https://github.com/aVadim483/fast-excel-helper/releases/tag/v1.3.0), 4 months ago) - 
 - [brainfoolong/js-ascon](https://github.com/brainfoolong/js-ascon) ([1.3.0](https://github.com/brainfoolong/js-ascon/releases/tag/1.3.0), 7 months ago) - JavaScript / TypeScript Implementation of Ascon, a family of authenticated encryption (AEAD) and hashing algorithms designed to be lightweight.
 - [brainfoolong/php-ascon](https://github.com/brainfoolong/php-ascon) ([1.3.0](https://github.com/brainfoolong/php-ascon/releases/tag/1.3.0), 7 months ago) - PHP 8&#43; Implementation of Ascon, a family of authenticated encryption (AEAD) and hashing algorithms designed to be lightweight
