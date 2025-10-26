@@ -12,9 +12,9 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object. (3 months ago)
 - [brainfoolong/js-ascon](https://github.com/brainfoolong/js-ascon) - JavaScript / TypeScript Implementation of Ascon, a family of authenticated encryption (AEAD) and hashing algorithms designed to be lightweight. (7 months ago)
 - [brainfoolong/php-ascon](https://github.com/brainfoolong/php-ascon) - PHP 8&#43; Implementation of Ascon, a family of authenticated encryption (AEAD) and hashing algorithms designed to be lightweight (7 months ago)
-- [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required. (8 months ago)
+- [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required. (9 months ago)
 - [NullixAT/nullix-server-hardware-performance-test-tool](https://github.com/NullixAT/nullix-server-hardware-performance-test-tool) - A simple command line tool to test your server/desktop/hardware performance. (9 months ago)
-- [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP. Supports full XLSX-file functionality - cell formatting, formulas, styles, charts, etc. (11 months ago)
+- [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP. Supports full XLSX-file functionality - cell formatting, formulas, styles, charts, etc. (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -32,7 +32,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 #### 🔭 Latest releases I've contributed to
 
 - [brainfoolong/justnocaptcha](https://github.com/brainfoolong/justnocaptcha) ([0.1.0](https://github.com/brainfoolong/justnocaptcha/releases/tag/0.1.0), 1 week ago) - User friendly, Invisible Proof of Work Captcha/Challenge for your browser without any required user interaction
-- [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) ([v6.7.1](https://github.com/aVadim483/fast-excel-writer/releases/tag/v6.7.1), 2 weeks ago) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP. Supports full XLSX-file functionality - cell formatting, formulas, styles, charts, etc.
+- [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) ([v6.7.1](https://github.com/aVadim483/fast-excel-writer/releases/tag/v6.7.1), 3 weeks ago) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP. Supports full XLSX-file functionality - cell formatting, formulas, styles, charts, etc.
 - [brainfoolong/php-svg-charts](https://github.com/brainfoolong/php-svg-charts) ([0.2.1](https://github.com/brainfoolong/php-svg-charts/releases/tag/0.2.1), 2 months ago) - Generate SVG image charts to be able to use it in web and pdf at the same time.
 - [aVadim483/fast-excel-helper](https://github.com/aVadim483/fast-excel-helper) ([v1.3.0](https://github.com/aVadim483/fast-excel-helper/releases/tag/v1.3.0), 4 months ago) - 
 - [brainfoolong/js-ascon](https://github.com/brainfoolong/js-ascon) ([1.3.0](https://github.com/brainfoolong/js-ascon/releases/tag/1.3.0), 7 months ago) - JavaScript / TypeScript Implementation of Ascon, a family of authenticated encryption (AEAD) and hashing algorithms designed to be lightweight.
@@ -43,11 +43,11 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔨 My recent Pull Requests
 
-- [Implement `get_applied_force` and `get_applied_torque` for 3D joints](https://github.com/godotengine/godot/pull/111842) on [godotengine/godot](https://github.com/godotengine/godot) (5 days ago)
+- [Implement `get_applied_force` and `get_applied_torque` for 3D joints](https://github.com/godotengine/godot/pull/111842) on [godotengine/godot](https://github.com/godotengine/godot) (6 days ago)
 - [removed php 8.5 deprecation curl_close](https://github.com/mpdf/mpdf/pull/2121) on [mpdf/mpdf](https://github.com/mpdf/mpdf) (2 months ago)
-- [fixed unclosed filehandle](https://github.com/aVadim483/fast-excel-writer/pull/91) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (11 months ago)
-- [fixed php 8.4 warning](https://github.com/aVadim483/fast-excel-helper/pull/3) on [aVadim483/fast-excel-helper](https://github.com/aVadim483/fast-excel-helper) (11 months ago)
-- [fixed php 8.4 warning ](https://github.com/aVadim483/fast-excel-writer/pull/90) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (11 months ago)
+- [fixed unclosed filehandle](https://github.com/aVadim483/fast-excel-writer/pull/91) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (1 year ago)
+- [fixed php 8.4 warning](https://github.com/aVadim483/fast-excel-helper/pull/3) on [aVadim483/fast-excel-helper](https://github.com/aVadim483/fast-excel-helper) (1 year ago)
+- [fixed php 8.4 warning ](https://github.com/aVadim483/fast-excel-writer/pull/90) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (1 year ago)
 - [adding sc_n (command_skip_current) and ctrl&#43;sc_n command_cancel_last to legacy keybinds](https://github.com/beyond-all-reason/Beyond-All-Reason/pull/3719) on [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) (1 year ago)
 - [adding sc_n (command_skip_current) and ctrl&#43;sc_n command_cancel_last to legacy keybinds](https://github.com/beyond-all-reason/Beyond-All-Reason/pull/3718) on [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) (1 year ago)
 - [Added PHP and JS/TS submodules](https://github.com/ascon/ascon_collection/pull/2) on [ascon/ascon_collection](https://github.com/ascon/ascon_collection) (2 years ago)
