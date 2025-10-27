@@ -43,7 +43,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔨 My recent Pull Requests
 
-- [Implement `get_applied_force` and `get_applied_torque` for 3D joints](https://github.com/godotengine/godot/pull/111842) on [godotengine/godot](https://github.com/godotengine/godot) (6 days ago)
+- [Implement `get_applied_force` and `get_applied_torque` for 3D joints](https://github.com/godotengine/godot/pull/111842) on [godotengine/godot](https://github.com/godotengine/godot) (1 week ago)
 - [removed php 8.5 deprecation curl_close](https://github.com/mpdf/mpdf/pull/2121) on [mpdf/mpdf](https://github.com/mpdf/mpdf) (2 months ago)
 - [fixed unclosed filehandle](https://github.com/aVadim483/fast-excel-writer/pull/91) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (1 year ago)
 - [fixed php 8.4 warning](https://github.com/aVadim483/fast-excel-helper/pull/3) on [aVadim483/fast-excel-helper](https://github.com/aVadim483/fast-excel-helper) (1 year ago)
@@ -56,7 +56,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 📓 Gists I wrote
 
-- [Javascript URLSearchParams &lt;-&gt; JS Object converter (multidimensional)](https://gist.github.com/c1eb7be6eba82c352e812665d68feaa6) (1 week ago)
+- [Javascript URLSearchParams &lt;-&gt; JS Object converter (multidimensional)](https://gist.github.com/c1eb7be6eba82c352e812665d68feaa6) (2 weeks ago)
 - [Welcome to CSTP](https://gist.github.com/991fbdd709d150cad0d864b9cdd4e8e6) (5 months ago)
 - [Install Podman Desktop on Windows 11 &#43; WSL Installation &#43; Podman Desktop showing WSL containers](https://gist.github.com/117a0f7562cb2c51b824db4011d40d29) (8 months ago)
 - [](https://gist.github.com/47cc8c26b9547e632ca099a118aa8136) (1 year ago)
