@@ -43,6 +43,9 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔨 My recent Pull Requests
 
+- [fixed error with mb_strtolower and null result in deprecation error](https://github.com/aVadim483/fast-excel-writer/pull/126) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (today)
+- [mb_strtolower($index) errors out with null error](https://github.com/aVadim483/fast-excel-writer/pull/125) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (today)
+- [fixed php 8.5 deprecation](https://github.com/aVadim483/fast-excel-writer/pull/124) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (today)
 - [Implement `get_applied_force` and `get_applied_torque` for 3D joints](https://github.com/godotengine/godot/pull/111842) on [godotengine/godot](https://github.com/godotengine/godot) (1 week ago)
 - [removed php 8.5 deprecation curl_close](https://github.com/mpdf/mpdf/pull/2121) on [mpdf/mpdf](https://github.com/mpdf/mpdf) (2 months ago)
 - [fixed unclosed filehandle](https://github.com/aVadim483/fast-excel-writer/pull/91) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (1 year ago)
@@ -50,9 +53,6 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [fixed php 8.4 warning ](https://github.com/aVadim483/fast-excel-writer/pull/90) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (1 year ago)
 - [adding sc_n (command_skip_current) and ctrl&#43;sc_n command_cancel_last to legacy keybinds](https://github.com/beyond-all-reason/Beyond-All-Reason/pull/3719) on [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) (1 year ago)
 - [adding sc_n (command_skip_current) and ctrl&#43;sc_n command_cancel_last to legacy keybinds](https://github.com/beyond-all-reason/Beyond-All-Reason/pull/3718) on [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) (1 year ago)
-- [Added PHP and JS/TS submodules](https://github.com/ascon/ascon_collection/pull/2) on [ascon/ascon_collection](https://github.com/ascon/ascon_collection) (2 years ago)
-- [fixed wrong codepoint (also wrong on website)](https://github.com/stephenhutchings/microns/pull/22) on [stephenhutchings/microns](https://github.com/stephenhutchings/microns) (2 years ago)
-- [fixed regexp not properly escape windows backslash in path](https://github.com/microsoft/playwright/pull/17690) on [microsoft/playwright](https://github.com/microsoft/playwright) (3 years ago)
 
 #### 📓 Gists I wrote
 
