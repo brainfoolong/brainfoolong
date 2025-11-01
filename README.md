@@ -5,7 +5,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP. Supports full XLSX-file functionality - cell formatting, formulas, styles, charts, etc. (1 day ago)
+- [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP. Supports full XLSX-file functionality - cell formatting, formulas, styles, charts, etc. (2 days ago)
 - [brainfoolong/justnocaptcha](https://github.com/brainfoolong/justnocaptcha) - User friendly, Invisible Proof of Work Captcha/Challenge for your browser without any required user interaction (2 weeks ago)
 - [brainfoolong/gdscript-midi-parser](https://github.com/brainfoolong/gdscript-midi-parser) - Godot GDScript 4&#43; Midi File Parser and Player (1 month ago)
 - [brainfoolong/php-svg-charts](https://github.com/brainfoolong/php-svg-charts) - Generate SVG image charts to be able to use it in web and pdf at the same time. (2 months ago)
@@ -31,7 +31,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
-- [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) ([v6.8.0](https://github.com/aVadim483/fast-excel-writer/releases/tag/v6.8.0), 1 day ago) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP. Supports full XLSX-file functionality - cell formatting, formulas, styles, charts, etc.
+- [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) ([v6.8.0](https://github.com/aVadim483/fast-excel-writer/releases/tag/v6.8.0), 2 days ago) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP. Supports full XLSX-file functionality - cell formatting, formulas, styles, charts, etc.
 - [brainfoolong/justnocaptcha](https://github.com/brainfoolong/justnocaptcha) ([0.1.0](https://github.com/brainfoolong/justnocaptcha/releases/tag/0.1.0), 2 weeks ago) - User friendly, Invisible Proof of Work Captcha/Challenge for your browser without any required user interaction
 - [brainfoolong/php-svg-charts](https://github.com/brainfoolong/php-svg-charts) ([0.2.1](https://github.com/brainfoolong/php-svg-charts/releases/tag/0.2.1), 2 months ago) - Generate SVG image charts to be able to use it in web and pdf at the same time.
 - [brainfoolong/js-ascon](https://github.com/brainfoolong/js-ascon) ([1.3.0](https://github.com/brainfoolong/js-ascon/releases/tag/1.3.0), 7 months ago) - JavaScript / TypeScript Implementation of Ascon, a family of authenticated encryption (AEAD) and hashing algorithms designed to be lightweight.
@@ -42,9 +42,9 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔨 My recent Pull Requests
 
-- [fixed error with mb_strtolower and null result in deprecation error](https://github.com/aVadim483/fast-excel-writer/pull/126) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (1 day ago)
-- [mb_strtolower($index) errors out with null error](https://github.com/aVadim483/fast-excel-writer/pull/125) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (1 day ago)
-- [fixed php 8.5 deprecation](https://github.com/aVadim483/fast-excel-writer/pull/124) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (1 day ago)
+- [fixed error with mb_strtolower and null result in deprecation error](https://github.com/aVadim483/fast-excel-writer/pull/126) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (2 days ago)
+- [mb_strtolower($index) errors out with null error](https://github.com/aVadim483/fast-excel-writer/pull/125) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (2 days ago)
+- [fixed php 8.5 deprecation](https://github.com/aVadim483/fast-excel-writer/pull/124) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (2 days ago)
 - [Implement `get_applied_force` and `get_applied_torque` for 3D joints](https://github.com/godotengine/godot/pull/111842) on [godotengine/godot](https://github.com/godotengine/godot) (1 week ago)
 - [removed php 8.5 deprecation curl_close](https://github.com/mpdf/mpdf/pull/2121) on [mpdf/mpdf](https://github.com/mpdf/mpdf) (2 months ago)
 - [fixed unclosed filehandle](https://github.com/aVadim483/fast-excel-writer/pull/91) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (1 year ago)
@@ -56,7 +56,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 #### 📓 Gists I wrote
 
 - [Javascript URLSearchParams &lt;-&gt; JS Object converter (multidimensional)](https://gist.github.com/c1eb7be6eba82c352e812665d68feaa6) (2 weeks ago)
-- [Welcome to CSTP](https://gist.github.com/991fbdd709d150cad0d864b9cdd4e8e6) (5 months ago)
+- [Welcome to CSTP](https://gist.github.com/991fbdd709d150cad0d864b9cdd4e8e6) (6 months ago)
 - [Install Podman Desktop on Windows 11 &#43; WSL Installation &#43; Podman Desktop showing WSL containers](https://gist.github.com/117a0f7562cb2c51b824db4011d40d29) (8 months ago)
 - [](https://gist.github.com/47cc8c26b9547e632ca099a118aa8136) (1 year ago)
 - [BitMask Demo](https://gist.github.com/4c30bdf9d94acfa4d2f61f0ae932ef71) (4 years ago)
