@@ -42,6 +42,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔨 My recent Pull Requests
 
+- [fixed $http_response_header php85 error](https://github.com/aVadim483/fast-excel-writer/pull/127) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (today)
 - [fixed error with mb_strtolower and null result in deprecation error](https://github.com/aVadim483/fast-excel-writer/pull/126) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (1 week ago)
 - [mb_strtolower($index) errors out with null error](https://github.com/aVadim483/fast-excel-writer/pull/125) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (1 week ago)
 - [fixed php 8.5 deprecation](https://github.com/aVadim483/fast-excel-writer/pull/124) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (1 week ago)
@@ -51,7 +52,6 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [fixed php 8.4 warning](https://github.com/aVadim483/fast-excel-helper/pull/3) on [aVadim483/fast-excel-helper](https://github.com/aVadim483/fast-excel-helper) (1 year ago)
 - [fixed php 8.4 warning ](https://github.com/aVadim483/fast-excel-writer/pull/90) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (1 year ago)
 - [adding sc_n (command_skip_current) and ctrl&#43;sc_n command_cancel_last to legacy keybinds](https://github.com/beyond-all-reason/Beyond-All-Reason/pull/3719) on [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) (1 year ago)
-- [adding sc_n (command_skip_current) and ctrl&#43;sc_n command_cancel_last to legacy keybinds](https://github.com/beyond-all-reason/Beyond-All-Reason/pull/3718) on [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) (1 year ago)
 
 #### 📓 Gists I wrote
 
