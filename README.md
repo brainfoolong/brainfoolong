@@ -5,7 +5,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP. Supports full XLSX-file functionality - cell formatting, formulas, styles, charts, etc. (1 week ago)
+- [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP. Supports full XLSX-file functionality - cell formatting, formulas, styles, charts, etc. (1 day ago)
 - [brainfoolong/justnocaptcha](https://github.com/brainfoolong/justnocaptcha) - User friendly, Invisible Proof of Work Captcha/Challenge for your browser without any required user interaction (3 weeks ago)
 - [brainfoolong/gdscript-midi-parser](https://github.com/brainfoolong/gdscript-midi-parser) - Godot GDScript 4&#43; Midi File Parser and Player (2 months ago)
 - [brainfoolong/php-svg-charts](https://github.com/brainfoolong/php-svg-charts) - Generate SVG image charts to be able to use it in web and pdf at the same time. (3 months ago)
