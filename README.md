@@ -42,7 +42,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔨 My recent Pull Requests
 
-- [fixed $http_response_header php85 error](https://github.com/aVadim483/fast-excel-writer/pull/127) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (today)
+- [fixed $http_response_header php85 error](https://github.com/aVadim483/fast-excel-writer/pull/127) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (1 day ago)
 - [fixed error with mb_strtolower and null result in deprecation error](https://github.com/aVadim483/fast-excel-writer/pull/126) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (1 week ago)
 - [mb_strtolower($index) errors out with null error](https://github.com/aVadim483/fast-excel-writer/pull/125) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (1 week ago)
 - [fixed php 8.5 deprecation](https://github.com/aVadim483/fast-excel-writer/pull/124) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (1 week ago)
@@ -58,7 +58,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [Javascript URLSearchParams &lt;-&gt; JS Object converter (multidimensional)](https://gist.github.com/c1eb7be6eba82c352e812665d68feaa6) (3 weeks ago)
 - [Welcome to CSTP](https://gist.github.com/991fbdd709d150cad0d864b9cdd4e8e6) (6 months ago)
 - [Install Podman Desktop on Windows 11 &#43; WSL Installation &#43; Podman Desktop showing WSL containers](https://gist.github.com/117a0f7562cb2c51b824db4011d40d29) (9 months ago)
-- [](https://gist.github.com/47cc8c26b9547e632ca099a118aa8136) (1 year ago)
+- [](https://gist.github.com/47cc8c26b9547e632ca099a118aa8136) (2 years ago)
 - [BitMask Demo](https://gist.github.com/4c30bdf9d94acfa4d2f61f0ae932ef71) (4 years ago)
 
 #### ⭐ Recent Stars
