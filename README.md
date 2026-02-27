@@ -44,9 +44,9 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 #### 🔨 My recent Pull Requests
 
 - [fixed $http_response_header php85 error](https://github.com/aVadim483/fast-excel-writer/pull/127) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (3 months ago)
-- [fixed error with mb_strtolower and null result in deprecation error](https://github.com/aVadim483/fast-excel-writer/pull/126) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (3 months ago)
-- [mb_strtolower($index) errors out with null error](https://github.com/aVadim483/fast-excel-writer/pull/125) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (3 months ago)
-- [fixed php 8.5 deprecation](https://github.com/aVadim483/fast-excel-writer/pull/124) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (3 months ago)
+- [fixed error with mb_strtolower and null result in deprecation error](https://github.com/aVadim483/fast-excel-writer/pull/126) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (4 months ago)
+- [mb_strtolower($index) errors out with null error](https://github.com/aVadim483/fast-excel-writer/pull/125) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (4 months ago)
+- [fixed php 8.5 deprecation](https://github.com/aVadim483/fast-excel-writer/pull/124) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (4 months ago)
 - [Implement `get_applied_force` and `get_applied_torque` for 3D joints](https://github.com/godotengine/godot/pull/111842) on [godotengine/godot](https://github.com/godotengine/godot) (4 months ago)
 - [removed php 8.5 deprecation curl_close](https://github.com/mpdf/mpdf/pull/2121) on [mpdf/mpdf](https://github.com/mpdf/mpdf) (6 months ago)
 - [fixed unclosed filehandle](https://github.com/aVadim483/fast-excel-writer/pull/91) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (1 year ago)
