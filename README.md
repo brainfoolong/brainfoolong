@@ -5,7 +5,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required. (2 weeks ago)
+- [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required. (3 weeks ago)
 - [brainfoolong/php-svg-charts](https://github.com/brainfoolong/php-svg-charts) - Generate SVG image charts to be able to use it in web and pdf at the same time. (1 month ago)
 - [NullixAT/browstorjs](https://github.com/NullixAT/browstorjs) - Persistent key/value data storage for your Browser and/or PWA, promisified, including file support and service worker support, all with IndexedDB. Perfectly suitable for your next (PWA) app. (3 months ago)
 - [brainfoolong/justnocaptcha](https://github.com/brainfoolong/justnocaptcha) - User friendly, Invisible Proof of Work Captcha/Challenge for your browser without any required user interaction (3 months ago)
@@ -31,7 +31,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
-- [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) ([1.0.3](https://github.com/brainfoolong/js-aes-php/releases/tag/1.0.3), 2 weeks ago) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required.
+- [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) ([1.0.3](https://github.com/brainfoolong/js-aes-php/releases/tag/1.0.3), 3 weeks ago) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required.
 - [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) ([v6.12.0](https://github.com/aVadim483/fast-excel-writer/releases/tag/v6.12.0), 1 month ago) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP. Supports full XLSX-file functionality - cell formatting, formulas, styles, charts, etc.
 - [brainfoolong/php-svg-charts](https://github.com/brainfoolong/php-svg-charts) ([0.3.0](https://github.com/brainfoolong/php-svg-charts/releases/tag/0.3.0), 4 months ago) - Generate SVG image charts to be able to use it in web and pdf at the same time.
 - [brainfoolong/justnocaptcha](https://github.com/brainfoolong/justnocaptcha) ([0.1.0](https://github.com/brainfoolong/justnocaptcha/releases/tag/0.1.0), 5 months ago) - User friendly, Invisible Proof of Work Captcha/Challenge for your browser without any required user interaction
@@ -56,7 +56,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 📓 Gists I wrote
 
-- [Caddy Server PHP FCGI - Load Balance one upstream - Prevent 502 errors](https://gist.github.com/bd53a5484c458d746e29f87157011ef6) (3 months ago)
+- [Caddy Server PHP FCGI - Load Balance one upstream - Prevent 502 errors](https://gist.github.com/bd53a5484c458d746e29f87157011ef6) (4 months ago)
 - [Javascript URLSearchParams &lt;-&gt; JS Object converter (multidimensional)](https://gist.github.com/c1eb7be6eba82c352e812665d68feaa6) (5 months ago)
 - [Welcome to CSTP](https://gist.github.com/991fbdd709d150cad0d864b9cdd4e8e6) (10 months ago)
 - [Install Podman Desktop on Windows 11 &#43; WSL Installation &#43; Podman Desktop showing WSL containers](https://gist.github.com/117a0f7562cb2c51b824db4011d40d29) (1 year ago)
