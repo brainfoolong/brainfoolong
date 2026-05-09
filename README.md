@@ -5,7 +5,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required. (today)
+- [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required. (1 day ago)
 - [brainfoolong/php-svg-charts](https://github.com/brainfoolong/php-svg-charts) - Generate SVG image charts to be able to use it in web and pdf at the same time. (2 weeks ago)
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object. (1 month ago)
 - [NullixAT/browstorjs](https://github.com/NullixAT/browstorjs) - Persistent key/value data storage for your Browser and/or PWA, promisified, including file support and service worker support, all with IndexedDB. Perfectly suitable for your next (PWA) app. (5 months ago)
