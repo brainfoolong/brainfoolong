@@ -1,3 +1,5 @@
+name: Mirror brainfoolong/js-aes-php
+
 on:
   workflow_dispatch: # Allows manual triggering
   schedule:
