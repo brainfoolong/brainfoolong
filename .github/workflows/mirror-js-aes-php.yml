@@ -1,0 +1,57 @@
+name: Standalone Hourly Mirror
+
+on:
+  workflow_dispatch: # Allows manual triggering
+  schedule:
+    - cron: '0 * * * *' # Runs automatically every hour
+
+env:
+  CODEBERG_SOURCE_URL: 'https://codeberg.org/brainfoolong/js-aes-php.git'
+  GITHUB_TARGET_REPO: 'brainfoolong/js-aes-php'
+  BRANCH_NAME: 'main'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clone Codeberg Source
+        run: |
+          # Clone the source repository into a folder named "mirror-repo"
+          git clone --branch ${{ env.BRANCH_NAME }} ${{ env.CODEBERG_SOURCE_URL }} mirror-repo
+
+      - name: Prepend mirror notice to README
+        working-directory: ./mirror-repo
+        run: |
+          NOTICE="> **Note:** This is a mirror, please visit [Codeberg](${{ env.CODEBERG_SOURCE_URL }}) for actual development.\n\n"
+          
+          if [ -f README.md ]; then
+            if ! grep -q "This is a mirror, please visit" README.md; then
+              echo -e "$NOTICE" | cat - README.md > temp_readme && mv temp_readme README.md
+            else
+              echo "Notice already exists in README.md, skipping."
+            fi
+          else
+            echo -e "$NOTICE" > README.md
+          fi
+
+      - name: Commit local changes
+        working-directory: ./mirror-repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          
+          git commit -m "chore: sync mirror and update README" || echo "No changes to commit"
+
+      - name: Push to GitHub Target
+        working-directory: ./mirror-repo
+        run: |
+          # Construct the authenticated target URL securely using your repository secret
+          TARGET_URL="https://oauth2:${{ secrets.TARGET_SYNC_TOKEN }}@github.com/${{ env.GITHUB_TARGET_REPO }}.git"
+          
+          # Add the GitHub repository as a new remote
+          git remote add github-target $TARGET_URL
+          
+          # Force push to GitHub to ensure it mirrors Codeberg exactly
+          git push --force github-target ${{ env.BRANCH_NAME }}
