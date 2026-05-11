@@ -23,7 +23,7 @@ jobs:
       - name: Prepend mirror notice to README
         working-directory: ./mirror-repo
         run: |
-          NOTICE="> **Note:** This is a mirror, please visit [Codeberg](${{ env.CODEBERG_SOURCE_URL }}) for actual development.\n\n"
+          NOTICE="> **Note:** This is a mirror, please visit [the Codeberg Repo](${{ env.CODEBERG_SOURCE_URL }}) for actual development. [Why Codeberg?](https://github.com/brainfoolong/brainfoolong/blob/main/WHYCODEBERG.md)\n\n"
           
           if [ -f README.md ]; then
             if ! grep -q "This is a mirror, please visit" README.md; then
