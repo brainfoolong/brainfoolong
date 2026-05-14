@@ -1,4 +1,4 @@
-name: Mirror NullixAT/nullix-server-hardware-performance-test-tool
+name: Mirror brainfoolong/js-ascon
 
 on:
   workflow_dispatch: # Allows manual triggering
@@ -6,8 +6,8 @@ on:
     - cron: '0 * * * *' # Runs automatically every hour
 
 env:
-  CODEBERG_SOURCE_URL: 'https://codeberg.org/brainfoolong/nullix-server-hardware-performance-test-tool.git'
-  GITHUB_TARGET_REPO: 'NullixAT/nullix-server-hardware-performance-test-tool'
+  CODEBERG_SOURCE_URL: 'https://codeberg.org/brainfoolong/js-ascon.git'
+  GITHUB_TARGET_REPO: 'brainfoolong/js-ascon'
   BRANCH_NAME: 'main'
 
 jobs:
