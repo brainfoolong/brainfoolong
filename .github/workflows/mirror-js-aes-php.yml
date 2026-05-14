@@ -50,7 +50,7 @@ jobs:
           # Use -A to stage all changes, including the folder deletion and README update
           git add -A
           
-          git commit -m "chore: sync mirror, update README, and strip source workflows" || echo "No changes to commit"
+          git commit -m "chore: sync mirror" || echo "No changes to commit"
 
       - name: Push to GitHub Target
         working-directory: ./mirror-repo
