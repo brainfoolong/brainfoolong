@@ -1,0 +1,87 @@
+name: Mirror brainfoolong/gdscript-midi-parser
+
+on:
+  workflow_dispatch: # Allows manual triggering
+  schedule:
+    - cron: '0 * * * *' # Runs automatically every hour
+
+env:
+  CODEBERG_SOURCE_URL: 'https://codeberg.org/brainfoolong/gdscript-midi-parser.git'
+  GITHUB_TARGET_REPO: 'brainfoolong/gdscript-midi-parser'
+  BRANCH_NAME: 'main'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clone Codeberg Source
+        run: |
+          # Clone the source repository into a folder named "mirror-repo"
+          git clone --branch ${{ env.BRANCH_NAME }} ${{ env.CODEBERG_SOURCE_URL }} mirror-repo
+
+      - name: Prepend mirror notice to README
+        working-directory: ./mirror-repo
+        run: |
+          NOTICE="> **Note:** This is a mirror, please visit [the Codeberg Repo](${{ env.CODEBERG_SOURCE_URL }}) for actual development. [Why Codeberg?](https://github.com/brainfoolong/brainfoolong/blob/main/WHYCODEBERG.md)\n\n"
+          
+          if [ -f README.md ]; then
+            if ! grep -q "This is a mirror, please visit" README.md; then
+             echo -e "$NOTICE" | cat - README.md > temp_readme && mv temp_readme README.md
+            else
+             echo "Notice already exists in README.md, skipping."
+            fi
+          else
+            echo -e "$NOTICE" > README.md
+          fi
+
+      - name: Strip .github directory and Stage
+        working-directory: ./mirror-repo
+        run: |
+          # Safely remove the .github directory if it exists
+          if [ -d ".github" ]; then
+            rm -rf .github
+            echo "Removed .github directory from the mirror."
+          fi
+          
+          # Stage all changes so we can calculate the local tree hash
+          git add -A
+
+      - name: Check for Changes
+        working-directory: ./mirror-repo
+        run: |
+          # Add the GitHub repository as a new remote
+          TARGET_URL="https://oauth2:${{ secrets.TARGET_SYNC_TOKEN }}@github.com/${{ env.GITHUB_TARGET_REPO }}.git"
+          git remote add github-target $TARGET_URL
+          
+          # Fetch target branch (use || true so it doesn't fail on the first ever run)
+          git fetch github-target ${{ env.BRANCH_NAME }} || true
+          
+          # 1. Get the Git tree hash of the staged local files (ignoring .github, including new README)
+          LOCAL_TREE=$(git write-tree)
+          
+          # 2. Get the Git tree hash of the remote GitHub branch
+          TARGET_TREE=$(git rev-parse github-target/${{ env.BRANCH_NAME }}^{tree} 2>/dev/null || echo "none")
+          
+          echo "Local Git Tree: $LOCAL_TREE"
+          echo "Target Git Tree: $TARGET_TREE"
+          
+          if [ "$LOCAL_TREE" = "$TARGET_TREE" ]; then
+            echo "No file changes detected. Skipping commit and push."
+            echo "SYNC_REQUIRED=false" >> $GITHUB_ENV
+          else
+            echo "Differences found. Proceeding with sync."
+            echo "SYNC_REQUIRED=true" >> $GITHUB_ENV
+          fi
+
+      - name: Commit and Push to GitHub Target
+        if: env.SYNC_REQUIRED == 'true'
+        working-directory: ./mirror-repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git commit -m "chore: sync mirror"
+          
+          # Force push to GitHub to ensure it mirrors Codeberg exactly
+          git push --force github-target ${{ env.BRANCH_NAME }}
