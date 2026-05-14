@@ -24,10 +24,10 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [brainfoolong/gdscript-midi-parser](https://github.com/brainfoolong/gdscript-midi-parser) - Godot GDScript 4&#43; Midi File Parser and Player
 - [brainfoolong/js-ascon](https://github.com/brainfoolong/js-ascon) - JavaScript / TypeScript Implementation of Ascon, a family of authenticated encryption (AEAD) and hashing algorithms designed to be lightweight.
 - [brainfoolong/php-ascon](https://github.com/brainfoolong/php-ascon) - PHP 8&#43; Implementation of Ascon, a family of authenticated encryption (AEAD) and hashing algorithms designed to be lightweight
-- [brainfoolong/misc](https://github.com/brainfoolong/misc) - Miscellaneous
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object.
 - [brainfoolong/better-battlelog](https://github.com/brainfoolong/better-battlelog) - Better Battlelog legacy code and legacy website. It was fun :)
 - [brainfoolong/IntoTheBreachTranslations](https://github.com/brainfoolong/IntoTheBreachTranslations) - Inofficial Translations for PC Game Into the Breach.
+- [brainfoolong/unity-music-visualizer](https://github.com/brainfoolong/unity-music-visualizer) - Basic music visualization project for Unity.
 
 #### 🔭 Latest releases I've contributed to
 
