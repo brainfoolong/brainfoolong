@@ -5,7 +5,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [brainfoolong/justnocaptcha](https://github.com/brainfoolong/justnocaptcha) - User friendly, Invisible Proof of Work Captcha/Challenge for your browser without any required user interaction (6 days ago)
+- [brainfoolong/justnocaptcha](https://github.com/brainfoolong/justnocaptcha) - User friendly, Invisible Proof of Work Captcha/Challenge for your browser without any required user interaction (1 week ago)
 - [brainfoolong/php-svg-charts](https://github.com/brainfoolong/php-svg-charts) - Generate SVG image charts to be able to use it in web and pdf at the same time. (1 week ago)
 - [brainfoolong/php-ascon](https://github.com/brainfoolong/php-ascon) - PHP 8&#43; Implementation of Ascon, a family of authenticated encryption (AEAD) and hashing algorithms designed to be lightweight (1 week ago)
 - [brainfoolong/js-ascon](https://github.com/brainfoolong/js-ascon) - JavaScript / TypeScript Implementation of Ascon, a family of authenticated encryption (AEAD) and hashing algorithms designed to be lightweight. (1 week ago)
@@ -31,7 +31,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
-- [brainfoolong/php-svg-charts](https://github.com/brainfoolong/php-svg-charts) ([0.3.2](https://github.com/brainfoolong/php-svg-charts/releases/tag/0.3.2), 3 weeks ago) - Generate SVG image charts to be able to use it in web and pdf at the same time.
+- [brainfoolong/php-svg-charts](https://github.com/brainfoolong/php-svg-charts) ([0.3.2](https://github.com/brainfoolong/php-svg-charts/releases/tag/0.3.2), 4 weeks ago) - Generate SVG image charts to be able to use it in web and pdf at the same time.
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) ([3.0.1](https://github.com/brainfoolong/form-data-json/releases/tag/3.0.1), 1 month ago) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object.
 - [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) ([1.0.3](https://github.com/brainfoolong/js-aes-php/releases/tag/1.0.3), 2 months ago) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required.
 - [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) ([v6.12.0](https://github.com/aVadim483/fast-excel-writer/releases/tag/v6.12.0), 3 months ago) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP. Supports full XLSX-file functionality - cell formatting, formulas, styles, charts, etc.
