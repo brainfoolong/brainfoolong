@@ -17,4 +17,4 @@ jobs:
       - name: Run Scraper Script
         env:
           GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
-        run: node oemag-scrape.js
+        run: node scripts/oemag-scrape.js
