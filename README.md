@@ -13,7 +13,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required. (1 month ago)
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object. (3 months ago)
 - [NullixAT/browstorjs](https://github.com/NullixAT/browstorjs) - Persistent key/value data storage for your Browser and/or PWA, promisified, including file support and service worker support, all with IndexedDB. Perfectly suitable for your next (PWA) app. (7 months ago)
-- [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP. Supports full XLSX-file functionality - cell formatting, formulas, styles, charts, etc. (7 months ago)
+- [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP. Supports full XLSX-file functionality - cell formatting, formulas, styles, charts, etc. (8 months ago)
 - [brainfoolong/gdscript-midi-parser](https://github.com/brainfoolong/gdscript-midi-parser) - Godot GDScript 4&#43; Midi File Parser and Player (10 months ago)
 
 #### 🌱 My latest projects
@@ -31,7 +31,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
-- [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) ([v6.13.2](https://github.com/aVadim483/fast-excel-writer/releases/tag/v6.13.2), 2 days ago) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP. Supports full XLSX-file functionality - cell formatting, formulas, styles, charts, etc.
+- [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) ([v6.13.2](https://github.com/aVadim483/fast-excel-writer/releases/tag/v6.13.2), 3 days ago) - Lightweight and very fast XLSX Excel Spreadsheet Writer in PHP. Supports full XLSX-file functionality - cell formatting, formulas, styles, charts, etc.
 - [brainfoolong/php-svg-charts](https://github.com/brainfoolong/php-svg-charts) ([0.3.2](https://github.com/brainfoolong/php-svg-charts/releases/tag/0.3.2), 2 months ago) - Generate SVG image charts to be able to use it in web and pdf at the same time.
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) ([3.0.1](https://github.com/brainfoolong/form-data-json/releases/tag/3.0.1), 3 months ago) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object.
 - [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) ([1.0.3](https://github.com/brainfoolong/js-aes-php/releases/tag/1.0.3), 4 months ago) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required.
@@ -43,7 +43,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔨 My recent Pull Requests
 
-- [fixed $http_response_header php85 error](https://github.com/aVadim483/fast-excel-writer/pull/127) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (7 months ago)
+- [fixed $http_response_header php85 error](https://github.com/aVadim483/fast-excel-writer/pull/127) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (8 months ago)
 - [fixed error with mb_strtolower and null result in deprecation error](https://github.com/aVadim483/fast-excel-writer/pull/126) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (8 months ago)
 - [mb_strtolower($index) errors out with null error](https://github.com/aVadim483/fast-excel-writer/pull/125) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (8 months ago)
 - [fixed php 8.5 deprecation](https://github.com/aVadim483/fast-excel-writer/pull/124) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (8 months ago)
