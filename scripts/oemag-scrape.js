@@ -138,10 +138,13 @@ async function run () {
       }, {})
 
     // 4. Update Gist ONLY if new entries were added or things changed
-    const oldJsonStr = gistData.files[fileName].content.replace(/\s/g, '')
-    const newJsonStr = JSON.stringify(sortedResult, null, 2).replace(/\s/g, '')
+    const formattedJson = JSON.stringify(sortedResult, null, 2)
 
-    if (oldJsonStr.trim() === newJsonStr.trim()) {
+    // Strip whitespace only for comparison to check if the data changed
+    const oldJsonStr = (gistData.files[fileName].content || '').replace(/\s/g, '')
+    const newJsonStr = formattedJson.replace(/\s/g, '')
+
+    if (oldJsonStr === newJsonStr) {
       console.log('No new data found. Gist update skipped.')
       return
     }
@@ -156,7 +159,7 @@ async function run () {
       body: JSON.stringify({
         files: {
           [fileName]: {
-            content: newJsonStr,
+            content: formattedJson,
           },
         },
       }),
