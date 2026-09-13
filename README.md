@@ -5,7 +5,6 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [brainfoolong/brainsort](https://github.com/brainfoolong/brainsort) - Yet another general purpose sorting algo, but is it better?! (today)
 - [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required. (3 days ago)
 - [brainfoolong/php-svg-charts](https://github.com/brainfoolong/php-svg-charts) - Generate SVG image charts to be able to use it in web and pdf at the same time. (3 days ago)
 - [brainfoolong/justnocaptcha](https://github.com/brainfoolong/justnocaptcha) - User friendly, Invisible Proof of Work Captcha/Challenge for your browser without any required user interaction (3 days ago)
@@ -18,7 +17,6 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🌱 My latest projects
 
-- [brainfoolong/brainsort](https://github.com/brainfoolong/brainsort) - Yet another general purpose sorting algo, but is it better?!
 - [brainfoolong/justnocaptcha](https://github.com/brainfoolong/justnocaptcha) - User friendly, Invisible Proof of Work Captcha/Challenge for your browser without any required user interaction
 - [brainfoolong/php-svg-charts](https://github.com/brainfoolong/php-svg-charts) - Generate SVG image charts to be able to use it in web and pdf at the same time.
 - [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required.
@@ -28,6 +26,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object.
 - [brainfoolong/better-battlelog](https://github.com/brainfoolong/better-battlelog) - Better Battlelog legacy code and legacy website. It was fun :)
 - [brainfoolong/IntoTheBreachTranslations](https://github.com/brainfoolong/IntoTheBreachTranslations) - Inofficial Translations for PC Game Into the Breach.
+- [brainfoolong/unity-music-visualizer](https://github.com/brainfoolong/unity-music-visualizer) - Basic music visualization project for Unity.
 
 #### 🔭 Latest releases I've contributed to
 
