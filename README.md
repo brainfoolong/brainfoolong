@@ -5,7 +5,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [novis-lang/novis](https://github.com/novis-lang/novis) - Novis-Lang - The programming language for web applications and the command line. Fast. Secure by default.  You can build a business app, a website, an API or any other web service with it. The tools that a modern web application needs are built in. (today)
+- [novis-lang/novis](https://github.com/novis-lang/novis) - Novis-Lang - The programming language for web applications and the command line. Fast. Secure by default.  You can build a business app, a website, an API or any other web service with it. The tools that a modern web application needs are built in. (1 day ago)
 - [brainfoolong/brainsort](https://github.com/brainfoolong/brainsort) - Yet another general purpose sorting algo, but is it better?! (1 month ago)
 - [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required. (1 month ago)
 - [brainfoolong/php-svg-charts](https://github.com/brainfoolong/php-svg-charts) - Generate SVG image charts to be able to use it in web and pdf at the same time. (1 month ago)
@@ -43,7 +43,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔨 My recent Pull Requests
 
-- [fixed $http_response_header php85 error](https://github.com/aVadim483/fast-excel-writer/pull/127) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (11 months ago)
+- [fixed $http_response_header php85 error](https://github.com/aVadim483/fast-excel-writer/pull/127) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (1 year ago)
 - [fixed error with mb_strtolower and null result in deprecation error](https://github.com/aVadim483/fast-excel-writer/pull/126) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (1 year ago)
 - [mb_strtolower($index) errors out with null error](https://github.com/aVadim483/fast-excel-writer/pull/125) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (1 year ago)
 - [fixed php 8.5 deprecation](https://github.com/aVadim483/fast-excel-writer/pull/124) on [aVadim483/fast-excel-writer](https://github.com/aVadim483/fast-excel-writer) (1 year ago)
