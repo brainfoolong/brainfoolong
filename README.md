@@ -5,7 +5,7 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [novis-lang/novis](https://github.com/novis-lang/novis) - Novis is a programming language for web applications and the command line. Build business apps, websites, APIs and web services. The tools you need are built in. (1 day ago)
+- [novis-lang/novis](https://github.com/novis-lang/novis) - Novis is a programming language for web applications and the command line. Build business apps, websites, APIs and web services. The tools you need are built in. (today)
 - [brainfoolong/brainsort](https://github.com/brainfoolong/brainsort) - Yet another general purpose sorting algo, but is it better?! (1 month ago)
 - [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required. (2 months ago)
 - [brainfoolong/php-svg-charts](https://github.com/brainfoolong/php-svg-charts) - Generate SVG image charts to be able to use it in web and pdf at the same time. (2 months ago)
