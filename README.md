@@ -5,9 +5,9 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 👷 Check out what I'm currently working on
 
-- [novis-lang/novis](https://github.com/novis-lang/novis) - Novis is a programming language for web applications and the command line. Build business apps, websites, APIs and web services. The tools you need are built in. (today)
 - [brainfoolong/learn-piano-easy](https://github.com/brainfoolong/learn-piano-easy) - Learn piano in your browser: notes fall onto a 3D piano, and you play along on a MIDI keyboard. A course from the first key, hundreds of songs, free, open source and offline. (today)
-- [brainfoolong/brainsort](https://github.com/brainfoolong/brainsort) - Yet another general purpose sorting algo, but is it better?! (1 month ago)
+- [novis-lang/novis](https://github.com/novis-lang/novis) - Novis is a programming language for web applications and the command line. Build business apps, websites, APIs and web services. The tools you need are built in. (1 day ago)
+- [brainfoolong/brainsort](https://github.com/brainfoolong/brainsort) - Yet another general purpose sorting algo, but is it better?! (2 months ago)
 - [brainfoolong/js-aes-php](https://github.com/brainfoolong/js-aes-php) - Slim native AES encryption/decryption on client side with Javascript and on server side with PHP. No external CryptoJS required. (2 months ago)
 - [brainfoolong/php-svg-charts](https://github.com/brainfoolong/php-svg-charts) - Generate SVG image charts to be able to use it in web and pdf at the same time. (2 months ago)
 - [brainfoolong/justnocaptcha](https://github.com/brainfoolong/justnocaptcha) - User friendly, Invisible Proof of Work Captcha/Challenge for your browser without any required user interaction (2 months ago)
@@ -31,8 +31,8 @@ I am Roland Eigelsreiter aka _BrainFooLong_, i full-time web developer from aust
 
 #### 🔭 Latest releases I've contributed to
 
-- [novis-lang/novis](https://github.com/novis-lang/novis) ([v0.0.3](https://github.com/novis-lang/novis/releases/tag/v0.0.3), 2 days ago) - Novis is a programming language for web applications and the command line. Build business apps, websites, APIs and web services. The tools you need are built in.
-- [brainfoolong/brainsort](https://github.com/brainfoolong/brainsort) ([v0.5.0](https://github.com/brainfoolong/brainsort/releases/tag/v0.5.0), 1 month ago) - Yet another general purpose sorting algo, but is it better?!
+- [novis-lang/novis](https://github.com/novis-lang/novis) ([v0.0.3](https://github.com/novis-lang/novis/releases/tag/v0.0.3), 3 days ago) - Novis is a programming language for web applications and the command line. Build business apps, websites, APIs and web services. The tools you need are built in.
+- [brainfoolong/brainsort](https://github.com/brainfoolong/brainsort) ([v0.5.0](https://github.com/brainfoolong/brainsort/releases/tag/v0.5.0), 2 months ago) - Yet another general purpose sorting algo, but is it better?!
 - [brainfoolong/php-svg-charts](https://github.com/brainfoolong/php-svg-charts) ([0.3.2](https://github.com/brainfoolong/php-svg-charts/releases/tag/0.3.2), 6 months ago) - Generate SVG image charts to be able to use it in web and pdf at the same time.
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) ([3.0.1](https://github.com/brainfoolong/form-data-json/releases/tag/3.0.1), 7 months ago) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object.
 - [brainfoolong/justnocaptcha](https://github.com/brainfoolong/justnocaptcha) ([0.1.0](https://github.com/brainfoolong/justnocaptcha/releases/tag/0.1.0), 1 year ago) - User friendly, Invisible Proof of Work Captcha/Challenge for your browser without any required user interaction
